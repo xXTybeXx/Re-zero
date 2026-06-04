@@ -1,0 +1,5527 @@
+{
+  "chapters": [
+    {
+      "chapterId": "chapter-1",
+      "chapterTitle": "제1장 『노도와 같은 첫날』 에피소드",
+      "folder": "ch1",
+      "episodes": [
+        {
+          "id": "ep-1-prologue",
+          "title": "프롤로그 『시작의 여열』",
+          "orderInChapter": 1,
+          "globalOrder": 1,
+          "file": "ch1/001.html"
+        },
+        {
+          "id": "ep-1-1",
+          "title": "제1화 『톱니 동전은 쓸 수 없다』",
+          "orderInChapter": 2,
+          "globalOrder": 2,
+          "file": "ch1/002.html"
+        },
+        {
+          "id": "ep-1-2",
+          "title": "제2화 『우쭐대지 마라, 라고 신은 말했다』",
+          "orderInChapter": 3,
+          "globalOrder": 3,
+          "file": "ch1/003.html"
+        },
+        {
+          "id": "ep-1-3",
+          "title": "제3화 『처음 해보는 마법』",
+          "orderInChapter": 4,
+          "globalOrder": 4,
+          "file": "ch1/004.html"
+        },
+        {
+          "id": "ep-1-4",
+          "title": "제4화 『무릎베개의 보은』",
+          "orderInChapter": 5,
+          "globalOrder": 5,
+          "file": "ch1/005.html"
+        },
+        {
+          "id": "ep-1-5",
+          "title": "제5화 『너의 이름은』",
+          "orderInChapter": 6,
+          "globalOrder": 6,
+          "file": "ch1/006.html"
+        },
+        {
+          "id": "ep-1-6",
+          "title": "제6화 『시작의 끝』",
+          "orderInChapter": 7,
+          "globalOrder": 7,
+          "file": "ch1/007.html"
+        },
+        {
+          "id": "ep-1-7",
+          "title": "제7화 『불가해한 재회』",
+          "orderInChapter": 8,
+          "globalOrder": 8,
+          "file": "ch1/008.html"
+        },
+        {
+          "id": "ep-1-8",
+          "title": "제8화 『쓰디쓴 술맛』",
+          "orderInChapter": 9,
+          "globalOrder": 9,
+          "file": "ch1/009.html"
+        },
+        {
+          "id": "ep-1-9",
+          "title": "제9화 『히든카드를 꺼내는 방법』",
+          "orderInChapter": 10,
+          "globalOrder": 10,
+          "file": "ch1/010.html"
+        },
+        {
+          "id": "ep-1-10",
+          "title": "제10화 『말실수의 대가』",
+          "orderInChapter": 11,
+          "globalOrder": 11,
+          "file": "ch1/011.html"
+        },
+        {
+          "id": "ep-1-11",
+          "title": "제11화 『너무 늦은 저항』",
+          "orderInChapter": 12,
+          "globalOrder": 12,
+          "file": "ch1/012.html"
+        },
+        {
+          "id": "ep-1-12",
+          "title": "제12화 『재회의 마녀』",
+          "orderInChapter": 13,
+          "globalOrder": 13,
+          "file": "ch1/013.html"
+        },
+        {
+          "id": "ep-1-13",
+          "title": "제13화 『끝과 시작』",
+          "orderInChapter": 14,
+          "globalOrder": 14,
+          "file": "ch1/014.html"
+        },
+        {
+          "id": "ep-1-14",
+          "title": "제14화 『네 번째의 진실』",
+          "orderInChapter": 15,
+          "globalOrder": 15,
+          "file": "ch1/015.html"
+        },
+        {
+          "id": "ep-1-15",
+          "title": "제15화 『그 남자, <검성>이기에』",
+          "orderInChapter": 16,
+          "globalOrder": 16,
+          "file": "ch1/016.html"
+        },
+        {
+          "id": "ep-1-16",
+          "title": "제16화 『빈민가의 교섭』",
+          "orderInChapter": 17,
+          "globalOrder": 17,
+          "file": "ch1/017.html"
+        },
+        {
+          "id": "ep-1-17",
+          "title": "제17화 『장물창고의 교섭』",
+          "orderInChapter": 18,
+          "globalOrder": 18,
+          "file": "ch1/018.html"
+        },
+        {
+          "id": "ep-1-18",
+          "title": "제18화 『장물창고의 공방』",
+          "orderInChapter": 19,
+          "globalOrder": 19,
+          "file": "ch1/019.html"
+        },
+        {
+          "id": "ep-1-19",
+          "title": "제19화 『정령술사의 싸움』",
+          "orderInChapter": 20,
+          "globalOrder": 20,
+          "file": "ch1/020.html"
+        },
+        {
+          "id": "ep-1-20",
+          "title": "제20화 『주역들은 모두 모였다』",
+          "orderInChapter": 21,
+          "globalOrder": 21,
+          "file": "ch1/021.html"
+        },
+        {
+          "id": "ep-1-21",
+          "title": "제21화 『검성의 위력』",
+          "orderInChapter": 22,
+          "globalOrder": 22,
+          "file": "ch1/022.html"
+        },
+        {
+          "id": "ep-1-22",
+          "title": "제22화 『제로에서 시작하는 이세계 생활』",
+          "orderInChapter": 23,
+          "globalOrder": 23,
+          "file": "ch1/023.html"
+        },
+        {
+          "id": "ep-1-interlude",
+          "title": "막간 『달님께서 보고 계셔』",
+          "orderInChapter": 24,
+          "globalOrder": 24,
+          "file": "ch1/024.html"
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-2",
+      "chapterTitle": "제2장 『격동의 일주일』 에피소드",
+      "folder": "ch2",
+      "episodes": [
+        {
+          "id": "ep-2-1",
+          "title": "제1화 『낯선 천장, 끝없는 복도』",
+          "orderInChapter": 1,
+          "globalOrder": 25,
+          "file": "ch2/001.html"
+        },
+        {
+          "id": "ep-2-2",
+          "title": "제2화 『금서고의 지기와 쌍둥이 메이드』",
+          "orderInChapter": 2,
+          "globalOrder": 26,
+          "file": "ch2/002.html"
+        },
+        {
+          "id": "ep-2-3",
+          "title": "제3화 『시집은 다 갔네』",
+          "orderInChapter": 3,
+          "globalOrder": 27,
+          "file": "ch2/003.html"
+        },
+        {
+          "id": "ep-2-4",
+          "title": "제4화 『이세계 부트캠프』",
+          "orderInChapter": 4,
+          "globalOrder": 28,
+          "file": "ch2/004.html"
+        },
+        {
+          "id": "ep-2-5",
+          "title": "제5화 『자각하는 감정』",
+          "orderInChapter": 5,
+          "globalOrder": 29,
+          "file": "ch2/005.html"
+        },
+        {
+          "id": "ep-2-6",
+          "title": "제6화 『주인의 귀환』",
+          "orderInChapter": 6,
+          "globalOrder": 30,
+          "file": "ch2/006.html"
+        },
+        {
+          "id": "ep-2-7",
+          "title": "제7화 『로즈월 저택의 단란한 한때』",
+          "orderInChapter": 7,
+          "globalOrder": 31,
+          "file": "ch2/007.html"
+        },
+        {
+          "id": "ep-2-8",
+          "title": "제8화 『나라의 사정과 그 아이의 사정』",
+          "orderInChapter": 8,
+          "globalOrder": 32,
+          "file": "ch2/008.html"
+        },
+        {
+          "id": "ep-2-9",
+          "title": "제9화 『세 번 죽은 공적』",
+          "orderInChapter": 9,
+          "globalOrder": 33,
+          "file": "ch2/009.html"
+        },
+        {
+          "id": "ep-2-10",
+          "title": "제10화 『악덕 교섭』",
+          "orderInChapter": 10,
+          "globalOrder": 34,
+          "file": "ch2/010.html"
+        },
+        {
+          "id": "ep-2-11",
+          "title": "제11화 『식후의 단란함』",
+          "orderInChapter": 11,
+          "globalOrder": 35,
+          "file": "ch2/011.html"
+        },
+        {
+          "id": "ep-2-12",
+          "title": "제12화 『궁합이 좋으면서도 나쁜 두 사람』",
+          "orderInChapter": 12,
+          "globalOrder": 36,
+          "file": "ch2/012.html"
+        },
+        {
+          "id": "ep-2-13",
+          "title": "제13화 『약속했던 아침은 멀리』",
+          "orderInChapter": 13,
+          "globalOrder": 37,
+          "file": "ch2/013.html"
+        },
+        {
+          "id": "ep-2-14",
+          "title": "제14화 『반역의 선언』",
+          "orderInChapter": 14,
+          "globalOrder": 38,
+          "file": "ch2/014.html"
+        },
+        {
+          "id": "ep-2-15",
+          "title": "제15화 『두 번째 오산과 기대를 저버린 배신』",
+          "orderInChapter": 15,
+          "globalOrder": 39,
+          "file": "ch2/015.html"
+        },
+        {
+          "id": "ep-2-16",
+          "title": "제16화 『2주 차의 당혹감』",
+          "orderInChapter": 16,
+          "globalOrder": 40,
+          "file": "ch2/016.html"
+        },
+        {
+          "id": "ep-2-17",
+          "title": "제17화 『쇠사슬 소리』",
+          "orderInChapter": 17,
+          "globalOrder": 41,
+          "file": "ch2/017.html"
+        },
+        {
+          "id": "ep-2-18",
+          "title": "제18화 『세 번째 재회』",
+          "orderInChapter": 18,
+          "globalOrder": 42,
+          "file": "ch2/018.html"
+        },
+        {
+          "id": "ep-2-19",
+          "title": "제19화 『읽고 쓰기의 성과』",
+          "orderInChapter": 19,
+          "globalOrder": 43,
+          "file": "ch2/019.html"
+        },
+        {
+          "id": "ep-2-20",
+          "title": "제20화 『황혼녘, 고립무원』",
+          "orderInChapter": 20,
+          "globalOrder": 44,
+          "file": "ch2/020.html"
+        },
+        {
+          "id": "ep-2-21",
+          "title": "제21화 『황혼 무렵의 술래잡기』",
+          "orderInChapter": 21,
+          "globalOrder": 45,
+          "file": "ch2/021.html"
+        },
+        {
+          "id": "ep-2-22",
+          "title": "제22화 『말로는 표현할 수 없어』",
+          "orderInChapter": 22,
+          "globalOrder": 46,
+          "file": "ch2/022.html"
+        },
+        {
+          "id": "ep-2-23",
+          "title": "제23화 『임시 계약』",
+          "orderInChapter": 23,
+          "globalOrder": 47,
+          "file": "ch2/023.html"
+        },
+        {
+          "id": "ep-2-24",
+          "title": "제24화 『간절히 바라던 아침』",
+          "orderInChapter": 24,
+          "globalOrder": 48,
+          "file": "ch2/024.html"
+        },
+        {
+          "id": "ep-2-25",
+          "title": "제25화 『원망하는 목소리는 사라지지 않고』",
+          "orderInChapter": 25,
+          "globalOrder": 49,
+          "file": "ch2/025.html"
+        },
+        {
+          "id": "ep-2-26",
+          "title": "제26화 『제3의 선택지』",
+          "orderInChapter": 26,
+          "globalOrder": 50,
+          "file": "ch2/026.html"
+        },
+        {
+          "id": "ep-2-27",
+          "title": "제27화 『살아남기 위해 발버둥 치는 송곳니』",
+          "orderInChapter": 27,
+          "globalOrder": 51,
+          "file": "ch2/027.html"
+        },
+        {
+          "id": "ep-2-28",
+          "title": "제28화 『각오와 고백』",
+          "orderInChapter": 28,
+          "globalOrder": 52,
+          "file": "ch2/028.html"
+        },
+        {
+          "id": "ep-2-29",
+          "title": "제29화 『나츠키 스바루의 리스타트』",
+          "orderInChapter": 29,
+          "globalOrder": 53,
+          "file": "ch2/029.html"
+        },
+        {
+          "id": "ep-2-30",
+          "title": "제30화 『나츠키 스바루의 어릿광대 짓』",
+          "orderInChapter": 30,
+          "globalOrder": 54,
+          "file": "ch2/030.html"
+        },
+        {
+          "id": "ep-2-31",
+          "title": "제31화 『광대의 통곡』",
+          "orderInChapter": 31,
+          "globalOrder": 55,
+          "file": "ch2/031.html"
+        },
+        {
+          "id": "ep-2-32",
+          "title": "제32화 『울고 울부짖고 울음을 그쳤으니까』",
+          "orderInChapter": 32,
+          "globalOrder": 56,
+          "file": "ch2/032.html"
+        },
+        {
+          "id": "ep-2-33",
+          "title": "제33화 『보이기 시작한 광명과 불온한 그림자』",
+          "orderInChapter": 33,
+          "globalOrder": 57,
+          "file": "ch2/033.html"
+        },
+        {
+          "id": "ep-2-34",
+          "title": "제34화 『마녀와 정령과 마법사와』",
+          "orderInChapter": 34,
+          "globalOrder": 58,
+          "file": "ch2/034.html"
+        },
+        {
+          "id": "ep-2-35",
+          "title": "제35화 『장보기 약속』",
+          "orderInChapter": 35,
+          "globalOrder": 59,
+          "file": "ch2/035.html"
+        },
+        {
+          "id": "ep-2-36",
+          "title": "제36화 『마을에서의 한때, 앞당기기』",
+          "orderInChapter": 36,
+          "globalOrder": 60,
+          "file": "ch2/036.html"
+        },
+        {
+          "id": "ep-2-37",
+          "title": "제37화 『주술사의 정체』",
+          "orderInChapter": 37,
+          "globalOrder": 61,
+          "file": "ch2/037.html"
+        },
+        {
+          "id": "ep-2-38",
+          "title": "제38화 『용기의 의미』",
+          "orderInChapter": 38,
+          "globalOrder": 62,
+          "file": "ch2/038.html"
+        },
+        {
+          "id": "ep-2-39",
+          "title": "제39화 『밤샘 약속』",
+          "orderInChapter": 39,
+          "globalOrder": 63,
+          "file": "ch2/039.html"
+        },
+        {
+          "id": "ep-2-40",
+          "title": "제40화 『마수의 송곳니』",
+          "orderInChapter": 40,
+          "globalOrder": 64,
+          "file": "ch2/040.html"
+        },
+        {
+          "id": "ep-2-41",
+          "title": "제41화 『오니』",
+          "orderInChapter": 41,
+          "globalOrder": 65,
+          "file": "ch2/041.html"
+        },
+        {
+          "id": "ep-2-42",
+          "title": "제42화 『찐 감자』",
+          "orderInChapter": 42,
+          "globalOrder": 66,
+          "file": "ch2/042.html"
+        },
+        {
+          "id": "ep-2-43",
+          "title": "제43화 『살아남기 위해 발버둥 치는 조건』",
+          "orderInChapter": 43,
+          "globalOrder": 67,
+          "file": "ch2/043.html"
+        },
+        {
+          "id": "ep-2-44",
+          "title": "제44화 『절망을 이용하는 방법』",
+          "orderInChapter": 44,
+          "globalOrder": 68,
+          "file": "ch2/044.html"
+        },
+        {
+          "id": "ep-2-45",
+          "title": "제45화 『잔향의 효과』",
+          "orderInChapter": 45,
+          "globalOrder": 69,
+          "file": "ch2/045.html"
+        },
+        {
+          "id": "ep-2-46",
+          "title": "제46화 『오니가 들린 일섬』",
+          "orderInChapter": 46,
+          "globalOrder": 70,
+          "file": "ch2/046.html"
+        },
+        {
+          "id": "ep-2-47",
+          "title": "제47화 『렘』",
+          "orderInChapter": 47,
+          "globalOrder": 71,
+          "file": "ch2/047.html"
+        },
+        {
+          "id": "ep-2-48",
+          "title": "제48화 『올인』",
+          "orderInChapter": 48,
+          "globalOrder": 72,
+          "file": "ch2/048.html"
+        },
+        {
+          "id": "ep-2-49",
+          "title": "제49화 『미래에 대한 이야기』",
+          "orderInChapter": 49,
+          "globalOrder": 73,
+          "file": "ch2/049.html"
+        },
+        {
+          "id": "ep-2-interlude",
+          "title": "막간 『달밤의 밀담』",
+          "orderInChapter": 50,
+          "globalOrder": 74,
+          "file": "ch2/050.html"
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-extra-1",
+      "chapterTitle": "번외편 『원데이 (わんでい)』 에피소드",
+      "folder": "chextra-1",
+      "episodes": [
+        {
+          "id": "ep-ex1-1",
+          "title": "번외편 1 상 『중독증상』",
+          "orderInChapter": 1,
+          "globalOrder": 75,
+          "file": "chextra-1/001.html"
+        },
+        {
+          "id": "ep-ex1-2",
+          "title": "번외편 1 하 『제1차 마요네즈 소동』",
+          "orderInChapter": 2,
+          "globalOrder": 76,
+          "file": "chextra-1/002.html"
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-3",
+      "chapterTitle": "제3장 『재래의 왕도』 에피소드 목록",
+      "folder": "ch3",
+      "episodes": [
+        {
+          "id": "ep-3-1",
+          "title": "제1화 『평온한 이른 아침』",
+          "orderInChapter": 1,
+          "globalOrder": 77,
+          "file": "ch3/001.html"
+        },
+        {
+          "id": "ep-3-2",
+          "title": "제2화 『고용인의 다화』",
+          "orderInChapter": 2,
+          "globalOrder": 78,
+          "file": "ch3/002.html"
+        },
+        {
+          "id": "ep-3-3",
+          "title": "제3화 『왕도 여행 계획』",
+          "orderInChapter": 3,
+          "globalOrder": 79,
+          "file": "ch3/003.html"
+        },
+        {
+          "id": "ep-3-4",
+          "title": "제4화 『여행 출발 전도다난』",
+          "orderInChapter": 4,
+          "globalOrder": 80,
+          "file": "ch3/004.html"
+        },
+        {
+          "id": "ep-3-5",
+          "title": "제5화 『약속이 이루어질 때』",
+          "orderInChapter": 5,
+          "globalOrder": 81,
+          "file": "ch3/005.html"
+        },
+        {
+          "id": "ep-3-6",
+          "title": "제6화 『위태로운 두 사람』",
+          "orderInChapter": 6,
+          "globalOrder": 82,
+          "file": "ch3/006.html"
+        },
+        {
+          "id": "ep-3-7",
+          "title": "제7화 『오렌지색 소녀』",
+          "orderInChapter": 7,
+          "globalOrder": 83,
+          "file": "ch3/007.html"
+        },
+        {
+          "id": "ep-3-8",
+          "title": "제8화 『도박의 결말』",
+          "orderInChapter": 8,
+          "globalOrder": 84,
+          "file": "ch3/008.html"
+        },
+        {
+          "id": "ep-3-9",
+          "title": "제9화 『가호와 재회와 약속과』",
+          "orderInChapter": 9,
+          "globalOrder": 85,
+          "file": "ch3/009.html"
+        },
+        {
+          "id": "ep-3-10",
+          "title": "제10화 『합류와 작별』",
+          "orderInChapter": 10,
+          "globalOrder": 86,
+          "file": "ch3/010.html"
+        },
+        {
+          "id": "ep-3-11",
+          "title": "제11화 『세 사람이 모이면 문수의 나쁜 꾀』",
+          "orderInChapter": 11,
+          "globalOrder": 87,
+          "file": "ch3/011.html"
+        },
+        {
+          "id": "ep-3-12",
+          "title": "제12화 『비밀 입성과 그 결과』",
+          "orderInChapter": 12,
+          "globalOrder": 88,
+          "file": "ch3/012.html"
+        },
+        {
+          "id": "ep-3-13",
+          "title": "제13화 『동향』",
+          "orderInChapter": 13,
+          "globalOrder": 89,
+          "file": "ch3/013.html"
+        },
+        {
+          "id": "ep-3-14",
+          "title": "제14화 『왕선의 시작』",
+          "orderInChapter": 14,
+          "globalOrder": 90,
+          "file": "ch3/014.html"
+        },
+        {
+          "id": "ep-3-15",
+          "title": "제15화 『사이가 너무 나쁜 멤버들』",
+          "orderInChapter": 15,
+          "globalOrder": 91,
+          "file": "ch3/015.html"
+        },
+        {
+          "id": "ep-3-16",
+          "title": "제16화 『소신 표명』",
+          "orderInChapter": 16,
+          "globalOrder": 92,
+          "file": "ch3/016.html"
+        },
+        {
+          "id": "ep-3-17",
+          "title": "제17화 『오만불손한 연설』",
+          "orderInChapter": 17,
+          "globalOrder": 93,
+          "file": "ch3/017.html"
+        },
+        {
+          "id": "ep-3-18",
+          "title": "제18화 『탐욕 상인』",
+          "orderInChapter": 18,
+          "globalOrder": 94,
+          "file": "ch3/018.html"
+        },
+        {
+          "id": "ep-3-19",
+          "title": "제19화 『은색 마녀의 소망』",
+          "orderInChapter": 19,
+          "globalOrder": 95,
+          "file": "ch3/019.html"
+        },
+        {
+          "id": "ep-3-20",
+          "title": "제20화 『자칭 기사 나츠키 스바루』",
+          "orderInChapter": 20,
+          "globalOrder": 96,
+          "file": "ch3/020.html"
+        },
+        {
+          "id": "ep-3-21",
+          "title": "제21화 『천려의 대가와 노인의 의지』",
+          "orderInChapter": 21,
+          "globalOrder": 97,
+          "file": "ch3/021.html"
+        },
+        {
+          "id": "ep-3-22",
+          "title": "제22화 『마지막 주종』",
+          "orderInChapter": 22,
+          "globalOrder": 98,
+          "file": "ch3/022.html"
+        },
+        {
+          "id": "ep-3-23",
+          "title": "제23화 『자칭 기사와 기사』",
+          "orderInChapter": 23,
+          "globalOrder": 99,
+          "file": "ch3/023.html"
+        },
+        {
+          "id": "ep-3-24",
+          "title": "제24화 『결투의 전말』",
+          "orderInChapter": 24,
+          "globalOrder": 100,
+          "file": "ch3/024.html"
+        },
+        {
+          "id": "ep-3-25",
+          "title": "제25화 『홀로』",
+          "orderInChapter": 25,
+          "globalOrder": 101,
+          "file": "ch3/025.html"
+        },
+        {
+          "id": "ep-3-m1",
+          "title": "막간 『기사들의 속셈』",
+          "orderInChapter": 26,
+          "globalOrder": 102,
+          "file": "ch3/026.html"
+        },
+        {
+          "id": "ep-3-26",
+          "title": "제26화 『부식하는 정신』",
+          "orderInChapter": 27,
+          "globalOrder": 103,
+          "file": "ch3/027.html"
+        },
+        {
+          "id": "ep-3-27",
+          "title": "제27화 『시정의 목소리』",
+          "orderInChapter": 28,
+          "globalOrder": 104,
+          "file": "ch3/028.html"
+        },
+        {
+          "id": "ep-3-28",
+          "title": "제28화 『소극적인 향상심』",
+          "orderInChapter": 29,
+          "globalOrder": 105,
+          "file": "ch3/029.html"
+        },
+        {
+          "id": "ep-3-29",
+          "title": "제29화 『움직이기 시작하는 사태』",
+          "orderInChapter": 30,
+          "globalOrder": 106,
+          "file": "ch3/030.html"
+        },
+        {
+          "id": "ep-3-30",
+          "title": "제30화 『렘의 의지』",
+          "orderInChapter": 31,
+          "globalOrder": 107,
+          "file": "ch3/031.html"
+        },
+        {
+          "id": "ep-3-31",
+          "title": "제31화 『교섭과, 상담과, 단절』",
+          "orderInChapter": 32,
+          "globalOrder": 108,
+          "file": "ch3/032.html"
+        },
+        {
+          "id": "ep-3-32",
+          "title": "제32화 『절망이라는 병』",
+          "orderInChapter": 33,
+          "globalOrder": 109,
+          "file": "ch3/033.html"
+        },
+        {
+          "id": "ep-3-33",
+          "title": "제33화 『백(白)』",
+          "orderInChapter": 34,
+          "globalOrder": 110,
+          "file": "ch3/034.html"
+        },
+        {
+          "id": "ep-3-34",
+          "title": "제34화 『광기의 외곽』",
+          "orderInChapter": 35,
+          "globalOrder": 111,
+          "file": "ch3/035.html"
+        },
+        {
+          "id": "ep-3-35",
+          "title": "제35화 『귀로』",
+          "orderInChapter": 36,
+          "globalOrder": 112,
+          "file": "ch3/036.html"
+        },
+        {
+          "id": "ep-3-36",
+          "title": "제36화 『피의 포효』",
+          "orderInChapter": 37,
+          "globalOrder": 113,
+          "file": "ch3/037.html"
+        },
+        {
+          "id": "ep-3-37",
+          "title": "제37화 『나태』",
+          "orderInChapter": 38,
+          "globalOrder": 114,
+          "file": "ch3/038.html"
+        },
+        {
+          "id": "ep-3-38",
+          "title": "제38화 『현실로의 회귀』",
+          "orderInChapter": 39,
+          "globalOrder": 115,
+          "file": "ch3/039.html"
+        },
+        {
+          "id": "ep-3-39",
+          "title": "제39화 『기적』",
+          "orderInChapter": 40,
+          "globalOrder": 116,
+          "file": "ch3/040.html"
+        },
+        {
+          "id": "ep-3-40",
+          "title": "제40화 『살의의 이면』",
+          "orderInChapter": 41,
+          "globalOrder": 117,
+          "file": "ch3/041.html"
+        },
+        {
+          "id": "ep-3-41",
+          "title": "제41화 『미숙한 교섭』",
+          "orderInChapter": 42,
+          "globalOrder": 118,
+          "file": "ch3/042.html"
+        },
+        {
+          "id": "ep-3-42",
+          "title": "제42화 『결렬의 밤』",
+          "orderInChapter": 43,
+          "globalOrder": 119,
+          "file": "ch3/043.html"
+        },
+        {
+          "id": "ep-3-43",
+          "title": "제43화 『돼지의 욕망』",
+          "orderInChapter": 44,
+          "globalOrder": 120,
+          "file": "ch3/044.html"
+        },
+        {
+          "id": "ep-3-44",
+          "title": "제44화 『왕도 출발과 재회』",
+          "orderInChapter": 45,
+          "globalOrder": 121,
+          "file": "ch3/045.html"
+        },
+        {
+          "id": "ep-3-45",
+          "title": "제45화 『조우』",
+          "orderInChapter": 46,
+          "globalOrder": 122,
+          "file": "ch3/046.html"
+        },
+        {
+          "id": "ep-3-46",
+          "title": "제46화 『백경의 턱』",
+          "orderInChapter": 47,
+          "globalOrder": 123,
+          "file": "ch3/047.html"
+        },
+        {
+          "id": "ep-3-47",
+          "title": "제47화 『추태의 끝에』",
+          "orderInChapter": 48,
+          "globalOrder": 124,
+          "file": "ch3/048.html"
+        },
+        {
+          "id": "ep-3-48",
+          "title": "제48화 『말하게 두지 않아』",
+          "orderInChapter": 49,
+          "globalOrder": 125,
+          "file": "ch3/049.html"
+        },
+        {
+          "id": "ep-3-49",
+          "title": "제49화 『종언의 야수』",
+          "orderInChapter": 50,
+          "globalOrder": 126,
+          "file": "ch3/050.html"
+        },
+        {
+          "id": "ep-3-50",
+          "title": "제50화 『죄의 소재』",
+          "orderInChapter": 51,
+          "globalOrder": 127,
+          "file": "ch3/051.html"
+        },
+        {
+          "id": "ep-3-51",
+          "title": "제51화 『간청』",
+          "orderInChapter": 52,
+          "globalOrder": 128,
+          "file": "ch3/052.html"
+        },
+        {
+          "id": "ep-3-52",
+          "title": "제52화 『제로에서』",
+          "orderInChapter": 53,
+          "globalOrder": 129,
+          "file": "ch3/053.html"
+        },
+        {
+          "id": "ep-3-53",
+          "title": "제53화 『배정된 카드』",
+          "orderInChapter": 54,
+          "globalOrder": 130,
+          "file": "ch3/054.html"
+        },
+        {
+          "id": "ep-3-54",
+          "title": "제54화 『동맹 교섭』",
+          "orderInChapter": 55,
+          "globalOrder": 131,
+          "file": "ch3/055.html"
+        },
+        {
+          "id": "ep-3-55",
+          "title": "제55화 『전초』",
+          "orderInChapter": 56,
+          "globalOrder": 132,
+          "file": "ch3/056.html"
+        },
+        {
+          "id": "ep-3-56",
+          "title": "제56화 『결전의 서막』",
+          "orderInChapter": 57,
+          "globalOrder": 133,
+          "file": "ch3/057.html"
+        },
+        {
+          "id": "ep-3-57",
+          "title": "제57화 『백경 공략전』",
+          "orderInChapter": 58,
+          "globalOrder": 134,
+          "file": "ch3/058.html"
+        },
+        {
+          "id": "ep-3-58",
+          "title": "제58화 『안개의 위협』",
+          "orderInChapter": 59,
+          "globalOrder": 135,
+          "file": "ch3/059.html"
+        },
+        {
+          "id": "ep-3-59",
+          "title": "제59화 『절망에 저항하는 도박』",
+          "orderInChapter": 60,
+          "globalOrder": 136,
+          "file": "ch3/060.html"
+        },
+        {
+          "id": "ep-3-60",
+          "title": "제60화 『빌헬름 반 아스트레아』",
+          "orderInChapter": 61,
+          "globalOrder": 137,
+          "file": "ch3/061.html"
+        },
+        {
+          "id": "ep-3-61",
+          "title": "제61화 『메이더스 영지로의 길』",
+          "orderInChapter": 62,
+          "globalOrder": 138,
+          "file": "ch3/062.html"
+        },
+        {
+          "id": "ep-3-62",
+          "title": "제62화 『과거와 미래의 청산』",
+          "orderInChapter": 63,
+          "globalOrder": 139,
+          "file": "ch3/063.html"
+        },
+        {
+          "id": "ep-3-63",
+          "title": "제63화 『나태 일섬』",
+          "orderInChapter": 64,
+          "globalOrder": 140,
+          "file": "ch3/064.html"
+        },
+        {
+          "id": "ep-3-64",
+          "title": "제64화 『마녀교 토벌의 전말』",
+          "orderInChapter": 65,
+          "globalOrder": 141,
+          "file": "ch3/065.html"
+        },
+        {
+          "id": "ep-3-65",
+          "title": "제65화 『나태의 결과』",
+          "orderInChapter": 66,
+          "globalOrder": 142,
+          "file": "ch3/066.html"
+        },
+        {
+          "id": "ep-3-66",
+          "title": "제66화 『――싸워라』",
+          "orderInChapter": 67,
+          "globalOrder": 143,
+          "file": "ch3/067.html"
+        },
+        {
+          "id": "ep-3-67",
+          "title": "제67화 『정령 기사』",
+          "orderInChapter": 68,
+          "globalOrder": 144,
+          "file": "ch3/068.html"
+        },
+        {
+          "id": "ep-3-68",
+          "title": "제68화 『나태 포획 전선』",
+          "orderInChapter": 69,
+          "globalOrder": 145,
+          "file": "ch3/069.html"
+        },
+        {
+          "id": "ep-3-69",
+          "title": "제69화 『나날의 파편』",
+          "orderInChapter": 70,
+          "globalOrder": 146,
+          "file": "ch3/070.html"
+        },
+        {
+          "id": "ep-3-70",
+          "title": "제70화 『돌아온 의미』",
+          "orderInChapter": 71,
+          "globalOrder": 147,
+          "file": "ch3/071.html"
+        },
+        {
+          "id": "ep-3-71",
+          "title": "제71화 『금서고의 소녀』",
+          "orderInChapter": 72,
+          "globalOrder": 148,
+          "file": "ch3/072.html"
+        },
+        {
+          "id": "ep-3-72",
+          "title": "제72화 『무이해와 이해』",
+          "orderInChapter": 73,
+          "globalOrder": 149,
+          "file": "ch3/073.html"
+        },
+        {
+          "id": "ep-3-73",
+          "title": "제73화 『악랄한 나태』",
+          "orderInChapter": 74,
+          "globalOrder": 150,
+          "file": "ch3/074.html"
+        },
+        {
+          "id": "ep-3-74",
+          "title": "제74화 『계약의 이행』",
+          "orderInChapter": 75,
+          "globalOrder": 151,
+          "file": "ch3/075.html"
+        },
+        {
+          "id": "ep-3-75",
+          "title": "제75화 『재회×미룸×역전의 수』",
+          "orderInChapter": 76,
+          "globalOrder": 152,
+          "file": "ch3/076.html"
+        },
+        {
+          "id": "ep-3-76",
+          "title": "제76화 『무대 뒤×나쁜 꾀×손가락 걸기』",
+          "orderInChapter": 77,
+          "globalOrder": 153,
+          "file": "ch3/077.html"
+        },
+        {
+          "id": "ep-3-77",
+          "title": "제77화 『포로 교섭과 재회』",
+          "orderInChapter": 78,
+          "globalOrder": 154,
+          "file": "ch3/078.html"
+        },
+        {
+          "id": "ep-3-78",
+          "title": "제78화 『광인과 광대』",
+          "orderInChapter": 79,
+          "globalOrder": 155,
+          "file": "ch3/079.html"
+        },
+        {
+          "id": "ep-3-79",
+          "title": "제79화 『자칭 기사와 최우의 기사』",
+          "orderInChapter": 80,
+          "globalOrder": 156,
+          "file": "ch3/080.html"
+        },
+        {
+          "id": "ep-3-80",
+          "title": "제80화 『나태의 종언』 ★",
+          "orderInChapter": 81,
+          "globalOrder": 157,
+          "file": "ch3/081.html"
+        },
+        {
+          "id": "ep-3-81",
+          "title": "제81화 『추적』",
+          "orderInChapter": 82,
+          "globalOrder": 158,
+          "file": "ch3/082.html"
+        },
+        {
+          "id": "ep-3-82",
+          "title": "제82화 『사랑이라는 복음』",
+          "orderInChapter": 83,
+          "globalOrder": 159,
+          "file": "ch3/083.html"
+        },
+        {
+          "id": "ep-3-83",
+          "title": "제83화 『정답 확인』",
+          "orderInChapter": 84,
+          "globalOrder": 160,
+          "file": "ch3/084.html"
+        },
+        {
+          "id": "ep-3-84",
+          "title": "제84화 『단지 그뿐인 이야기』",
+          "orderInChapter": 85,
+          "globalOrder": 161,
+          "file": "ch3/085.html"
+        },
+        {
+          "id": "ep-3-m2",
+          "title": "막간 『용차에서의 한때』",
+          "orderInChapter": 86,
+          "globalOrder": 162,
+          "file": "ch3/086.html"
+        },
+        {
+          "id": "ep-3-d1",
+          "title": "단장 『나츠키 렘』",
+          "orderInChapter": 87,
+          "globalOrder": 163,
+          "file": "ch3/087.html"
+        },
+        {
+          "id": "ep-3-m3",
+          "title": "막간 『잘 먹겠습니다』",
+          "orderInChapter": 88,
+          "globalOrder": 164,
+          "file": "ch3/088.html"
+        },
+        {
+          "id": "ep-3-m4",
+          "title": "막간 『각자의, 맹세』",
+          "orderInChapter": 89,
+          "globalOrder": 165,
+          "file": "ch3/089.html"
+        },
+        {
+          "id": "ep-3-ex",
+          "title": "번외편 『임금님』",
+          "orderInChapter": 90,
+          "globalOrder": 166,
+          "file": "ch3/090.html"
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-4",
+      "chapterTitle": "제4장 『영원의 계약』 에피소드 목록",
+      "folder": "ch4",
+      "episodes": [
+        {
+          "id": "ep-4-1",
+          "title": "제1화 『도착한 곳에서』",
+          "orderInChapter": 1,
+          "globalOrder": 167,
+          "file": "ch4/001.html"
+        },
+        {
+          "id": "ep-4-2",
+          "title": "제2화 『매도와 감사』",
+          "orderInChapter": 2,
+          "globalOrder": 168,
+          "file": "ch4/002.html"
+        },
+        {
+          "id": "ep-4-3",
+          "title": "제3화 『재회와 엇갈림』",
+          "orderInChapter": 3,
+          "globalOrder": 169,
+          "file": "ch4/003.html"
+        },
+        {
+          "id": "ep-4-4",
+          "title": "제4화 『다음 장소』",
+          "orderInChapter": 4,
+          "globalOrder": 170,
+          "file": "ch4/004.html"
+        },
+        {
+          "id": "ep-4-5",
+          "title": "제5화 『에밀리아파』",
+          "orderInChapter": 5,
+          "globalOrder": 171,
+          "file": "ch4/005.html"
+        },
+        {
+          "id": "ep-4-6",
+          "title": "제6화 『성역으로 가는 도중』",
+          "orderInChapter": 6,
+          "globalOrder": 172,
+          "file": "ch4/006.html"
+        },
+        {
+          "id": "ep-4-7",
+          "title": "제7화 『실험장』",
+          "orderInChapter": 7,
+          "globalOrder": 173,
+          "file": "ch4/007.html"
+        },
+        {
+          "id": "ep-4-8",
+          "title": "제8화 『기다리던 재회』",
+          "orderInChapter": 8,
+          "globalOrder": 174,
+          "file": "ch4/008.html"
+        },
+        {
+          "id": "ep-4-9",
+          "title": "제9화 『묘소』",
+          "orderInChapter": 9,
+          "globalOrder": 175,
+          "file": "ch4/009.html"
+        },
+        {
+          "id": "ep-4-10",
+          "title": "제10화 『지식욕의 권화』",
+          "orderInChapter": 10,
+          "globalOrder": 176,
+          "file": "ch4/010.html"
+        },
+        {
+          "id": "ep-4-11",
+          "title": "제11화 『오만하고 나태한 분노』",
+          "orderInChapter": 11,
+          "globalOrder": 177,
+          "file": "ch4/011.html"
+        },
+        {
+          "id": "ep-4-12",
+          "title": "제12화 『다회의 선물』",
+          "orderInChapter": 12,
+          "globalOrder": 178,
+          "file": "ch4/012.html"
+        },
+        {
+          "id": "ep-4-13",
+          "title": "제13화 『로즈월의 속셈』",
+          "orderInChapter": 13,
+          "globalOrder": 179,
+          "file": "ch4/013.html"
+        },
+        {
+          "id": "ep-4-14",
+          "title": "제14화 『질의응답』",
+          "orderInChapter": 14,
+          "globalOrder": 180,
+          "file": "ch4/014.html"
+        },
+        {
+          "id": "ep-4-15",
+          "title": "제15화 『자격과 시련』",
+          "orderInChapter": 15,
+          "globalOrder": 181,
+          "file": "ch4/015.html"
+        },
+        {
+          "id": "ep-4-16",
+          "title": "제16화 『나츠키 가문의 아침』",
+          "orderInChapter": 16,
+          "globalOrder": 182,
+          "file": "ch4/016.html"
+        },
+        {
+          "id": "ep-4-17",
+          "title": "제17화 『연애 이야기』",
+          "orderInChapter": 17,
+          "globalOrder": 183,
+          "file": "ch4/017.html"
+        },
+        {
+          "id": "ep-4-18",
+          "title": "제18화 『부모와 자식』",
+          "orderInChapter": 18,
+          "globalOrder": 184,
+          "file": "ch4/018.html"
+        },
+        {
+          "id": "ep-4-19",
+          "title": "제19화 『숙제』",
+          "orderInChapter": 19,
+          "globalOrder": 185,
+          "file": "ch4/019.html"
+        },
+        {
+          "id": "ep-4-20",
+          "title": "제20화 『시험 결과』",
+          "orderInChapter": 20,
+          "globalOrder": 186,
+          "file": "ch4/020.html"
+        },
+        {
+          "id": "ep-4-21",
+          "title": "제21화 『결의를 새롭게』",
+          "orderInChapter": 21,
+          "globalOrder": 187,
+          "file": "ch4/021.html"
+        },
+        {
+          "id": "ep-4-22",
+          "title": "제22화 『약함』",
+          "orderInChapter": 22,
+          "globalOrder": 188,
+          "file": "ch4/022.html"
+        },
+        {
+          "id": "ep-4-23",
+          "title": "제23화 『내딛은 한 걸음』",
+          "orderInChapter": 23,
+          "globalOrder": 189,
+          "file": "ch4/023.html"
+        },
+        {
+          "id": "ep-4-24",
+          "title": "제24화 『잠깐』",
+          "orderInChapter": 24,
+          "globalOrder": 190,
+          "file": "ch4/024.html"
+        },
+        {
+          "id": "ep-4-25",
+          "title": "제25화 『얼음 숲』",
+          "orderInChapter": 25,
+          "globalOrder": 191,
+          "file": "ch4/025.html"
+        },
+        {
+          "id": "ep-4-26",
+          "title": "제26화 『꽉 막힘』",
+          "orderInChapter": 26,
+          "globalOrder": 192,
+          "file": "ch4/026.html"
+        },
+        {
+          "id": "ep-4-27",
+          "title": "제27화 『속삭임』",
+          "orderInChapter": 27,
+          "globalOrder": 193,
+          "file": "ch4/027.html"
+        },
+        {
+          "id": "ep-4-28",
+          "title": "제28화 『차담』",
+          "orderInChapter": 28,
+          "globalOrder": 194,
+          "file": "ch4/028.html"
+        },
+        {
+          "id": "ep-4-29",
+          "title": "제29화 『잡식계 남자』",
+          "orderInChapter": 29,
+          "globalOrder": 195,
+          "file": "ch4/029.html"
+        },
+        {
+          "id": "ep-4-30",
+          "title": "제30화 『귀로의 위화감』",
+          "orderInChapter": 30,
+          "globalOrder": 196,
+          "file": "ch4/030.html"
+        },
+        {
+          "id": "ep-4-31",
+          "title": "제31화 『메이드 메이드 메이드』",
+          "orderInChapter": 31,
+          "globalOrder": 197,
+          "file": "ch4/031.html"
+        },
+        {
+          "id": "ep-4-32",
+          "title": "제32화 『1/4』",
+          "orderInChapter": 32,
+          "globalOrder": 198,
+          "file": "ch4/032.html"
+        },
+        {
+          "id": "ep-4-33",
+          "title": "제33화 『바람이 빠져나가는 길』",
+          "orderInChapter": 33,
+          "globalOrder": 199,
+          "file": "ch4/033.html"
+        },
+        {
+          "id": "ep-4-34",
+          "title": "제34화 『끝나는 세계』",
+          "orderInChapter": 34,
+          "globalOrder": 200,
+          "file": "ch4/034.html"
+        },
+        {
+          "id": "ep-4-35",
+          "title": "제35화 『소녀의 복음』",
+          "orderInChapter": 35,
+          "globalOrder": 201,
+          "file": "ch4/035.html"
+        },
+        {
+          "id": "ep-4-36",
+          "title": "제36화 『무이해의 끝에』",
+          "orderInChapter": 36,
+          "globalOrder": 202,
+          "file": "ch4/036.html"
+        },
+        {
+          "id": "ep-4-37",
+          "title": "제37화 『첫 살의』",
+          "orderInChapter": 37,
+          "globalOrder": 203,
+          "file": "ch4/037.html"
+        },
+        {
+          "id": "ep-4-38",
+          "title": "제38화 『애벌레』",
+          "orderInChapter": 38,
+          "globalOrder": 204,
+          "file": "ch4/038.html"
+        },
+        {
+          "id": "ep-4-39",
+          "title": "제39화 『우인』",
+          "orderInChapter": 39,
+          "globalOrder": 205,
+          "file": "ch4/039.html"
+        },
+        {
+          "id": "ep-4-40",
+          "title": "제40화 『협력자』",
+          "orderInChapter": 40,
+          "globalOrder": 206,
+          "file": "ch4/040.html"
+        },
+        {
+          "id": "ep-4-41",
+          "title": "제41화 『호랑이』",
+          "orderInChapter": 41,
+          "globalOrder": 207,
+          "file": "ch4/041.html"
+        },
+        {
+          "id": "ep-4-42",
+          "title": "제42화 『목숨의 가치』",
+          "orderInChapter": 42,
+          "globalOrder": 208,
+          "file": "ch4/042.html"
+        },
+        {
+          "id": "ep-4-43",
+          "title": "제43화 『그리고 아무도――』",
+          "orderInChapter": 43,
+          "globalOrder": 209,
+          "file": "ch4/043.html"
+        },
+        {
+          "id": "ep-4-44",
+          "title": "제44화 『금기』",
+          "orderInChapter": 44,
+          "globalOrder": 210,
+          "file": "ch4/044.html"
+        },
+        {
+          "id": "ep-4-45",
+          "title": "제45화 『다회의 조건』",
+          "orderInChapter": 45,
+          "globalOrder": 211,
+          "file": "ch4/045.html"
+        },
+        {
+          "id": "ep-4-46",
+          "title": "제46화 『황충 피해』",
+          "orderInChapter": 46,
+          "globalOrder": 212,
+          "file": "ch4/046.html"
+        },
+        {
+          "id": "ep-4-47",
+          "title": "제47화 『궁합이 나쁜 상대』",
+          "orderInChapter": 47,
+          "globalOrder": 213,
+          "file": "ch4/047.html"
+        },
+        {
+          "id": "ep-4-48",
+          "title": "제48화 『다회의 대가』",
+          "orderInChapter": 48,
+          "globalOrder": 214,
+          "file": "ch4/048.html"
+        },
+        {
+          "id": "ep-4-49",
+          "title": "제49화 『러브러브러브러브러브러브유』",
+          "orderInChapter": 49,
+          "globalOrder": 215,
+          "file": "ch4/049.html"
+        },
+        {
+          "id": "ep-4-50",
+          "title": "제50화 『먼 외침』",
+          "orderInChapter": 50,
+          "globalOrder": 216,
+          "file": "ch4/050.html"
+        },
+        {
+          "id": "ep-4-51",
+          "title": "제51화 『러브러브러브러브러브러브러브러브러브러브러브러브러브러브미』",
+          "orderInChapter": 51,
+          "globalOrder": 217,
+          "file": "ch4/051.html"
+        },
+        {
+          "id": "ep-4-52",
+          "title": "제52화 『사소한 변화』",
+          "orderInChapter": 52,
+          "globalOrder": 218,
+          "file": "ch4/052.html"
+        },
+        {
+          "id": "ep-4-53",
+          "title": "제53화 『겹치는 질문』",
+          "orderInChapter": 53,
+          "globalOrder": 219,
+          "file": "ch4/053.html"
+        },
+        {
+          "id": "ep-4-54",
+          "title": "제54화 『지옥이라면 알고 있다』",
+          "orderInChapter": 54,
+          "globalOrder": 220,
+          "file": "ch4/054.html"
+        },
+        {
+          "id": "ep-4-55",
+          "title": "제55화 『크리스탈 소녀』",
+          "orderInChapter": 55,
+          "globalOrder": 221,
+          "file": "ch4/055.html"
+        },
+        {
+          "id": "ep-4-56",
+          "title": "제56화 『성역의 존재 이유』",
+          "orderInChapter": 56,
+          "globalOrder": 222,
+          "file": "ch4/056.html"
+        },
+        {
+          "id": "ep-4-57",
+          "title": "제57화 『불로불사의 실험』",
+          "orderInChapter": 57,
+          "globalOrder": 223,
+          "file": "ch4/057.html"
+        },
+        {
+          "id": "ep-4-58",
+          "title": "제58화 『할멈』",
+          "orderInChapter": 58,
+          "globalOrder": 224,
+          "file": "ch4/058.html"
+        },
+        {
+          "id": "ep-4-59",
+          "title": "제59화 『달콤한 구운 과자와 달콤하지 않은 이야기』",
+          "orderInChapter": 59,
+          "globalOrder": 225,
+          "file": "ch4/059.html"
+        },
+        {
+          "id": "ep-4-60",
+          "title": "제60화 『끝의 끝 이야기』",
+          "orderInChapter": 60,
+          "globalOrder": 226,
+          "file": "ch4/060.html"
+        },
+        {
+          "id": "ep-4-61",
+          "title": "제61화 『400년 전부터의 외침』",
+          "orderInChapter": 61,
+          "globalOrder": 227,
+          "file": "ch4/061.html"
+        },
+        {
+          "id": "ep-4-62",
+          "title": "제62화 『로즈월 저택의 참극』",
+          "orderInChapter": 62,
+          "globalOrder": 228,
+          "file": "ch4/062.html"
+        },
+        {
+          "id": "ep-4-63",
+          "title": "제63화 『죽음의 공감』",
+          "orderInChapter": 63,
+          "globalOrder": 229,
+          "file": "ch4/063.html"
+        },
+        {
+          "id": "ep-4-64",
+          "title": "제64화 『무너져 내리는 세계』",
+          "orderInChapter": 64,
+          "globalOrder": 230,
+          "file": "ch4/064.html"
+        },
+        {
+          "id": "ep-4-65",
+          "title": "제65화 『눈 속의 열정』",
+          "orderInChapter": 65,
+          "globalOrder": 231,
+          "file": "ch4/065.html"
+        },
+        {
+          "id": "ep-4-66",
+          "title": "제66화 『붉은 눈풍경』",
+          "orderInChapter": 66,
+          "globalOrder": 232,
+          "file": "ch4/066.html"
+        },
+        {
+          "id": "ep-4-67",
+          "title": "제67화 『마인』",
+          "orderInChapter": 67,
+          "globalOrder": 233,
+          "file": "ch4/067.html"
+        },
+        {
+          "id": "ep-4-68",
+          "title": "제68화 『죽음의 맛』",
+          "orderInChapter": 68,
+          "globalOrder": 234,
+          "file": "ch4/068.html"
+        },
+        {
+          "id": "ep-4-69",
+          "title": "제69화 『거짓말쟁이』",
+          "orderInChapter": 69,
+          "globalOrder": 235,
+          "file": "ch4/069.html"
+        },
+        {
+          "id": "ep-4-70",
+          "title": "제70화 『지옥의 그 너머』",
+          "orderInChapter": 70,
+          "globalOrder": 236,
+          "file": "ch4/070.html"
+        },
+        {
+          "id": "ep-4-71",
+          "title": "제71화 『엔딩 리스트』",
+          "orderInChapter": 71,
+          "globalOrder": 237,
+          "file": "ch4/071.html"
+        },
+        {
+          "id": "ep-4-m1",
+          "title": "막간 『다회』",
+          "orderInChapter": 72,
+          "globalOrder": 238,
+          "file": "ch4/072.html"
+        },
+        {
+          "id": "ep-4-72",
+          "title": "제72화 『BAD END 1, 5, 11』",
+          "orderInChapter": 73,
+          "globalOrder": 239,
+          "file": "ch4/073.html"
+        },
+        {
+          "id": "ep-4-73",
+          "title": "제73화 『약함의 소재』",
+          "orderInChapter": 74,
+          "globalOrder": 240,
+          "file": "ch4/074.html"
+        },
+        {
+          "id": "ep-4-74",
+          "title": "제74화 『마녀의 음모와 제안』",
+          "orderInChapter": 75,
+          "globalOrder": 241,
+          "file": "ch4/075.html"
+        },
+        {
+          "id": "ep-4-75",
+          "title": "제75화 『그 사람』",
+          "orderInChapter": 76,
+          "globalOrder": 242,
+          "file": "ch4/076.html"
+        },
+        {
+          "id": "ep-4-76",
+          "title": "제76화 『≠사테라』",
+          "orderInChapter": 77,
+          "globalOrder": 243,
+          "file": "ch4/077.html"
+        },
+        {
+          "id": "ep-4-77",
+          "title": "제77화 『외톨이의……』",
+          "orderInChapter": 78,
+          "globalOrder": 244,
+          "file": "ch4/078.html"
+        },
+        {
+          "id": "ep-4-78",
+          "title": "제78화 『울고 싶어지는 소리』",
+          "orderInChapter": 79,
+          "globalOrder": 245,
+          "file": "ch4/079.html"
+        },
+        {
+          "id": "ep-4-79",
+          "title": "제79화 『꿈의 끝』",
+          "orderInChapter": 80,
+          "globalOrder": 246,
+          "file": "ch4/080.html"
+        },
+        {
+          "id": "ep-4-m2",
+          "title": "막간 『귀빈은 떠나고』",
+          "orderInChapter": 81,
+          "globalOrder": 247,
+          "file": "ch4/081.html"
+        },
+        {
+          "id": "ep-4-80",
+          "title": "제80화 『거친 혀』",
+          "orderInChapter": 82,
+          "globalOrder": 248,
+          "file": "ch4/082.html"
+        },
+        {
+          "id": "ep-4-81",
+          "title": "제81화 『광명』",
+          "orderInChapter": 83,
+          "globalOrder": 249,
+          "file": "ch4/083.html"
+        },
+        {
+          "id": "ep-4-82",
+          "title": "제82화 『서로 속이기』",
+          "orderInChapter": 84,
+          "globalOrder": 250,
+          "file": "ch4/084.html"
+        },
+        {
+          "id": "ep-4-83",
+          "title": "제83화 『서로의 고백』",
+          "orderInChapter": 85,
+          "globalOrder": 251,
+          "file": "ch4/085.html"
+        },
+        {
+          "id": "ep-4-84",
+          "title": "제84화 『부정×부정×부정』",
+          "orderInChapter": 86,
+          "globalOrder": 252,
+          "file": "ch4/086.html"
+        },
+        {
+          "id": "ep-4-85",
+          "title": "제85화 『말로써, 마음으로써, 주먹으로써』",
+          "orderInChapter": 87,
+          "globalOrder": 253,
+          "file": "ch4/087.html"
+        },
+        {
+          "id": "ep-4-86",
+          "title": "제86화 『승산 도외시』",
+          "orderInChapter": 88,
+          "globalOrder": 254,
+          "file": "ch4/088.html"
+        },
+        {
+          "id": "ep-4-87",
+          "title": "제87화 『귀신은 밖으로, 광대 둘은 안으로』",
+          "orderInChapter": 89,
+          "globalOrder": 255,
+          "file": "ch4/089.html"
+        },
+        {
+          "id": "ep-4-88",
+          "title": "제88화 『가필의 속셈』",
+          "orderInChapter": 90,
+          "globalOrder": 256,
+          "file": "ch4/090.html"
+        },
+        {
+          "id": "ep-4-89",
+          "title": "제89화 『눈의 기억』",
+          "orderInChapter": 91,
+          "globalOrder": 257,
+          "file": "ch4/091.html"
+        },
+        {
+          "id": "ep-4-90",
+          "title": "제90화 『――죄송합니다』",
+          "orderInChapter": 92,
+          "globalOrder": 258,
+          "file": "ch4/092.html"
+        },
+        {
+          "id": "ep-4-91",
+          "title": "제91화 『거짓된 잠』",
+          "orderInChapter": 93,
+          "globalOrder": 259,
+          "file": "ch4/093.html"
+        },
+        {
+          "id": "ep-4-92",
+          "title": "제92화 『거짓말』",
+          "orderInChapter": 94,
+          "globalOrder": 260,
+          "file": "ch4/094.html"
+        },
+        {
+          "id": "ep-4-93",
+          "title": "제93화 『서로의 제안』",
+          "orderInChapter": 95,
+          "globalOrder": 261,
+          "file": "ch4/095.html"
+        },
+        {
+          "id": "ep-4-94",
+          "title": "제94화 『따돌림』",
+          "orderInChapter": 96,
+          "globalOrder": 262,
+          "file": "ch4/096.html"
+        },
+        {
+          "id": "ep-4-95",
+          "title": "제95화 『시그마』",
+          "orderInChapter": 97,
+          "globalOrder": 263,
+          "file": "ch4/097.html"
+        },
+        {
+          "id": "ep-4-96",
+          "title": "제96화 『입술에는 연지를 바르고』",
+          "orderInChapter": 98,
+          "globalOrder": 264,
+          "file": "ch4/098.html"
+        },
+        {
+          "id": "ep-4-97",
+          "title": "제97화 『아침을 앞두고』",
+          "orderInChapter": 99,
+          "globalOrder": 265,
+          "file": "ch4/099.html"
+        },
+        {
+          "id": "ep-4-98",
+          "title": "제98화 『온기가 사라진 침대』",
+          "orderInChapter": 100,
+          "globalOrder": 266,
+          "file": "ch4/100.html"
+        },
+        {
+          "id": "ep-4-99",
+          "title": "제99화 『닫힌 장소에서 홀로』",
+          "orderInChapter": 101,
+          "globalOrder": 267,
+          "file": "ch4/101.html"
+        },
+        {
+          "id": "ep-4-100",
+          "title": "제100화 『추억은 먼지에 묻혀』",
+          "orderInChapter": 102,
+          "globalOrder": 268,
+          "file": "ch4/102.html"
+        },
+        {
+          "id": "ep-4-ex",
+          "title": "리제로 EX 『호접지몽』",
+          "orderInChapter": 103,
+          "globalOrder": 269,
+          "file": "ch4/103.html"
+        },
+        {
+          "id": "ep-4-101",
+          "title": "제101화 『θ 그 첫 번째』",
+          "orderInChapter": 104,
+          "globalOrder": 270,
+          "file": "ch4/104.html"
+        },
+        {
+          "id": "ep-4-102",
+          "title": "제102화 『기억에 없는 추억』",
+          "orderInChapter": 105,
+          "globalOrder": 271,
+          "file": "ch4/105.html"
+        },
+        {
+          "id": "ep-4-103",
+          "title": "제103화 『성역의 시작과, 붕괴의 시작』",
+          "orderInChapter": 106,
+          "globalOrder": 272,
+          "file": "ch4/106.html"
+        },
+        {
+          "id": "ep-4-104",
+          "title": "제104화 『θ 그 두 번째』",
+          "orderInChapter": 107,
+          "globalOrder": 273,
+          "file": "ch4/107.html"
+        },
+        {
+          "id": "ep-4-105",
+          "title": "제105화 『행상인의 덫』",
+          "orderInChapter": 108,
+          "globalOrder": 274,
+          "file": "ch4/108.html"
+        },
+        {
+          "id": "ep-4-106",
+          "title": "제106화 『오토 스웬』",
+          "orderInChapter": 109,
+          "globalOrder": 275,
+          "file": "ch4/109.html"
+        },
+        {
+          "id": "ep-4-107",
+          "title": "제107화 『마지막 덫과』",
+          "orderInChapter": 110,
+          "globalOrder": 276,
+          "file": "ch4/110.html"
+        },
+        {
+          "id": "ep-4-108",
+          "title": "제108화 『타이밍만 좋을 뿐인 남자』",
+          "orderInChapter": 111,
+          "globalOrder": 277,
+          "file": "ch4/111.html"
+        },
+        {
+          "id": "ep-4-109",
+          "title": "제109화 『잘못된 선택』",
+          "orderInChapter": 112,
+          "globalOrder": 278,
+          "file": "ch4/112.html"
+        },
+        {
+          "id": "ep-4-110",
+          "title": "제110화 『믿는 이유』",
+          "orderInChapter": 113,
+          "globalOrder": 279,
+          "file": "ch4/113.html"
+        },
+        {
+          "id": "ep-4-111",
+          "title": "제111화 『가필의 결계』",
+          "orderInChapter": 114,
+          "globalOrder": 280,
+          "file": "ch4/114.html"
+        },
+        {
+          "id": "ep-4-112",
+          "title": "제112화 『약함을 거부하는 본능』",
+          "orderInChapter": 115,
+          "globalOrder": 281,
+          "file": "ch4/115.html"
+        },
+        {
+          "id": "ep-4-113",
+          "title": "제113화 『콰인의 돌은 혼자서는 들지 못한다』",
+          "orderInChapter": 116,
+          "globalOrder": 282,
+          "file": "ch4/116.html"
+        },
+        {
+          "id": "ep-4-114",
+          "title": "제114화 『거짓말을 소원으로』",
+          "orderInChapter": 117,
+          "globalOrder": 283,
+          "file": "ch4/117.html"
+        },
+        {
+          "id": "ep-4-115",
+          "title": "제115화 『소꿉친구 여자에게 고개를 들 수 없다』",
+          "orderInChapter": 118,
+          "globalOrder": 284,
+          "file": "ch4/118.html"
+        },
+        {
+          "id": "ep-4-116",
+          "title": "제116화 『할머니와, 어머니와, 누나와, 손자이자, 아들이자, 남동생으로』",
+          "orderInChapter": 119,
+          "globalOrder": 285,
+          "file": "ch4/119.html"
+        },
+        {
+          "id": "ep-4-117",
+          "title": "제117화 『러브레터』",
+          "orderInChapter": 120,
+          "globalOrder": 286,
+          "file": "ch4/120.html"
+        },
+        {
+          "id": "ep-4-118",
+          "title": "제118화 『평가성이 웃은 날』",
+          "orderInChapter": 121,
+          "globalOrder": 287,
+          "file": "ch4/121.html"
+        },
+        {
+          "id": "ep-4-119",
+          "title": "제119화 『지금도, 과거도, 변치 않는 사랑』",
+          "orderInChapter": 122,
+          "globalOrder": 288,
+          "file": "ch4/122.html"
+        },
+        {
+          "id": "ep-4-120",
+          "title": "제120화 『엘리올 대삼림의 영구동토』",
+          "orderInChapter": 123,
+          "globalOrder": 289,
+          "file": "ch4/123.html"
+        },
+        {
+          "id": "ep-4-121",
+          "title": "제121화 『구해줘』",
+          "orderInChapter": 124,
+          "globalOrder": 290,
+          "file": "ch4/124.html"
+        },
+        {
+          "id": "ep-4-122",
+          "title": "제122화 『포효의 재회』",
+          "orderInChapter": 125,
+          "globalOrder": 291,
+          "file": "ch4/125.html"
+        },
+        {
+          "id": "ep-4-123a",
+          "title": "제123화 A 『창자 사냥꾼 VS 성역의 방패』",
+          "orderInChapter": 126,
+          "globalOrder": 292,
+          "file": "ch4/126.html"
+        },
+        {
+          "id": "ep-4-123b",
+          "title": "제123화 B 『수면에 비치는 행복』",
+          "orderInChapter": 127,
+          "globalOrder": 293,
+          "file": "ch4/127.html"
+        },
+        {
+          "id": "ep-4-124",
+          "title": "제124화 『됐으니까 들어, 바보야』",
+          "orderInChapter": 128,
+          "globalOrder": 294,
+          "file": "ch4/128.html"
+        },
+        {
+          "id": "ep-4-125",
+          "title": "제125화 『로즈월 저택 공방전』",
+          "orderInChapter": 129,
+          "globalOrder": 295,
+          "file": "ch4/129.html"
+        },
+        {
+          "id": "ep-4-126",
+          "title": "제126화 『숲의 칠흑의 왕, 길티라유의 습격!』",
+          "orderInChapter": 130,
+          "globalOrder": 296,
+          "file": "ch4/130.html"
+        },
+        {
+          "id": "ep-4-127",
+          "title": "제127화 『로즈월 저택 마지막 날』",
+          "orderInChapter": 131,
+          "globalOrder": 297,
+          "file": "ch4/131.html"
+        },
+        {
+          "id": "ep-4-128",
+          "title": "제128화 『살과 피와 장기까지 사랑해줘』",
+          "orderInChapter": 132,
+          "globalOrder": 298,
+          "file": "ch4/132.html"
+        },
+        {
+          "id": "ep-4-129",
+          "title": "제129화 『――나를 선택해』",
+          "orderInChapter": 133,
+          "globalOrder": 299,
+          "file": "ch4/133.html"
+        },
+        {
+          "id": "ep-4-124b",
+          "title": "제124화 B 『거울에 비치는 당신』",
+          "orderInChapter": 134,
+          "globalOrder": 300,
+          "file": "ch4/134.html"
+        },
+        {
+          "id": "ep-4-125b",
+          "title": "제125화 B 『복수에서 시작되어』",
+          "orderInChapter": 135,
+          "globalOrder": 301,
+          "file": "ch4/135.html"
+        },
+        {
+          "id": "ep-4-126b",
+          "title": "제126화 B 『다음엔 꼭 다회를』",
+          "orderInChapter": 136,
+          "globalOrder": 302,
+          "file": "ch4/136.html"
+        },
+        {
+          "id": "ep-4-127b",
+          "title": "제127화 B 『이제 됐다는 말 따윈』",
+          "orderInChapter": 137,
+          "globalOrder": 303,
+          "file": "ch4/137.html"
+        },
+        {
+          "id": "ep-4-130",
+          "title": "제130화 『눈의 얼굴 형상』",
+          "orderInChapter": 138,
+          "globalOrder": 304,
+          "file": "ch4/138.html"
+        },
+        {
+          "id": "ep-4-m3",
+          "title": "막간 『각자의 양보』",
+          "orderInChapter": 139,
+          "globalOrder": 305,
+          "file": "ch4/139.html"
+        },
+        {
+          "id": "ep-4-m4",
+          "title": "막간 『에밀리아 진영·마인·정령·정령술사』",
+          "orderInChapter": 140,
+          "globalOrder": 306,
+          "file": "ch4/140.html"
+        },
+        {
+          "id": "ep-4-dasoku",
+          "title": "사족 『재림』",
+          "orderInChapter": 141,
+          "globalOrder": 307,
+          "file": "ch4/141.html"
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-extra-2",
+      "chapterTitle": "번외편 『원데이 II』 에피소드 목록",
+      "folder": "chextra-2",
+      "episodes": [
+        {
+          "id": "ep-ex2-1",
+          "title": "번외편 1 『어느 자매의 관계』",
+          "orderInChapter": 1,
+          "globalOrder": 308,
+          "file": "chextra-2/001.html"
+        },
+        {
+          "id": "ep-ex2-2",
+          "title": "번외편 2 『어린 영혼과 지켜보는 자』",
+          "orderInChapter": 2,
+          "globalOrder": 309,
+          "file": "chextra-2/002.html"
+        },
+        {
+          "id": "ep-ex2-3",
+          "title": "번외편 3 『미소녀와 미유녀와 미노녀』",
+          "orderInChapter": 3,
+          "globalOrder": 310,
+          "file": "chextra-2/003.html"
+        },
+        {
+          "id": "ep-ex2-4",
+          "title": "번외편 4 『탄생, 에밀리아 진영 내정관 님』",
+          "orderInChapter": 4,
+          "globalOrder": 311,
+          "file": "chextra-2/004.html"
+        },
+        {
+          "id": "ep-ex2-5",
+          "title": "번외편 5 『안네로제의 함정과 남매 관계』",
+          "orderInChapter": 5,
+          "globalOrder": 312,
+          "file": "chextra-2/005.html"
+        },
+        {
+          "id": "ep-ex2-6",
+          "title": "번외편 6 『또 하나의 남겨진 일』",
+          "orderInChapter": 6,
+          "globalOrder": 313,
+          "file": "chextra-2/006.html"
+        },
+        {
+          "id": "ep-ex2-end",
+          "title": "번외편 끝 『달빛 아래, 엉터리 스텝』",
+          "orderInChapter": 7,
+          "globalOrder": 314,
+          "file": "chextra-2/007.html"
+        },
+        {
+          "id": "ep-ex2-sp1",
+          "title": "특별편 상 『교차하는 숙원』",
+          "orderInChapter": 8,
+          "globalOrder": 315,
+          "file": "chextra-2/008.html"
+        },
+        {
+          "id": "ep-ex2-sp2",
+          "title": "특별편 하 『왕선 전일담』",
+          "orderInChapter": 9,
+          "globalOrder": 316,
+          "file": "chextra-2/009.html"
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-5",
+      "chapterTitle": "제5장 『역사를 새기는 별들』 에피소드 목록",
+      "folder": "ch5",
+      "episodes": [
+        {
+          "id": "ep-5-1",
+          "title": "제1화 『시작은 언제나 방문자로부터』",
+          "orderInChapter": 1,
+          "globalOrder": 317,
+          "file": "ch5/001.html"
+        },
+        {
+          "id": "ep-5-2",
+          "title": "제2화 『만만치 않은 녀석의 혈통』",
+          "orderInChapter": 2,
+          "globalOrder": 318,
+          "file": "ch5/002.html"
+        },
+        {
+          "id": "ep-5-3",
+          "title": "제3화 『각자의 견해』",
+          "orderInChapter": 3,
+          "globalOrder": 319,
+          "file": "ch5/003.html"
+        },
+        {
+          "id": "ep-5-4",
+          "title": "제4화 『여행 도중』",
+          "orderInChapter": 4,
+          "globalOrder": 320,
+          "file": "ch5/004.html"
+        },
+        {
+          "id": "ep-5-5",
+          "title": "제5화 『수문도시 프리스텔라』",
+          "orderInChapter": 5,
+          "globalOrder": 321,
+          "file": "ch5/005.html"
+        },
+        {
+          "id": "ep-5-6",
+          "title": "제6화 『정령기사 두 사람, 탐욕 상인과 무욕 천사』",
+          "orderInChapter": 6,
+          "globalOrder": 322,
+          "file": "ch5/006.html"
+        },
+        {
+          "id": "ep-5-7",
+          "title": "제7화 『업이 깊은 남자에게로 이어지는 배 여행』",
+          "orderInChapter": 7,
+          "globalOrder": 323,
+          "file": "ch5/007.html"
+        },
+        {
+          "id": "ep-5-8",
+          "title": "제8화 『뱃멀미 길동무』",
+          "orderInChapter": 8,
+          "globalOrder": 324,
+          "file": "ch5/008.html"
+        },
+        {
+          "id": "ep-5-9",
+          "title": "제9화 『가희의 가치』",
+          "orderInChapter": 9,
+          "globalOrder": 325,
+          "file": "ch5/009.html"
+        },
+        {
+          "id": "ep-5-10",
+          "title": "제10화 『물의 도시의 귀로』",
+          "orderInChapter": 10,
+          "globalOrder": 326,
+          "file": "ch5/010.html"
+        },
+        {
+          "id": "ep-5-11",
+          "title": "제11화 『의외의 재회, 올 것이 온 재회, 의도치 않은 재회』",
+          "orderInChapter": 11,
+          "globalOrder": 327,
+          "file": "ch5/011.html"
+        },
+        {
+          "id": "ep-5-12",
+          "title": "제12화 『방 안의 엄청난 공기』",
+          "orderInChapter": 12,
+          "globalOrder": 328,
+          "file": "ch5/012.html"
+        },
+        {
+          "id": "ep-5-13",
+          "title": "제13화 『화기애애한 만찬』",
+          "orderInChapter": 13,
+          "globalOrder": 329,
+          "file": "ch5/013.html"
+        },
+        {
+          "id": "ep-5-14",
+          "title": "제14화 『달빛 아래의 검귀』",
+          "orderInChapter": 14,
+          "globalOrder": 330,
+          "file": "ch5/014.html"
+        },
+        {
+          "id": "ep-5-15",
+          "title": "제15화 『시끄러운 정적』",
+          "orderInChapter": 15,
+          "globalOrder": 331,
+          "file": "ch5/015.html"
+        },
+        {
+          "id": "ep-5-16",
+          "title": "제16화 『초대받지 않은 손님』",
+          "orderInChapter": 16,
+          "globalOrder": 332,
+          "file": "ch5/016.html"
+        },
+        {
+          "id": "ep-5-17",
+          "title": "제17화 『익숙한 갑옷』",
+          "orderInChapter": 17,
+          "globalOrder": 333,
+          "file": "ch5/017.html"
+        },
+        {
+          "id": "ep-5-18",
+          "title": "제18화 『춤과 노래의 틈새에』",
+          "orderInChapter": 18,
+          "globalOrder": 334,
+          "file": "ch5/018.html"
+        },
+        {
+          "id": "ep-5-19",
+          "title": "제19화 『극장형 악의』",
+          "orderInChapter": 19,
+          "globalOrder": 335,
+          "file": "ch5/019.html"
+        },
+        {
+          "id": "ep-5-20",
+          "title": "제20화 『서로 높이는 마음』",
+          "orderInChapter": 20,
+          "globalOrder": 336,
+          "file": "ch5/020.html"
+        },
+        {
+          "id": "ep-5-21",
+          "title": "제21화 『최적의 해법』",
+          "orderInChapter": 21,
+          "globalOrder": 337,
+          "file": "ch5/021.html"
+        },
+        {
+          "id": "ep-5-22",
+          "title": "제22화 『안이함의 정답 확인』",
+          "orderInChapter": 22,
+          "globalOrder": 338,
+          "file": "ch5/022.html"
+        },
+        {
+          "id": "ep-5-23",
+          "title": "제23화 『휘둘리는 사태』",
+          "orderInChapter": 23,
+          "globalOrder": 339,
+          "file": "ch5/023.html"
+        },
+        {
+          "id": "ep-5-24",
+          "title": "제24화 『빙염의 결말』",
+          "orderInChapter": 24,
+          "globalOrder": 340,
+          "file": "ch5/024.html"
+        },
+        {
+          "id": "ep-5-25",
+          "title": "제25화 『사자자리 극장』",
+          "orderInChapter": 25,
+          "globalOrder": 341,
+          "file": "ch5/025.html"
+        },
+        {
+          "id": "ep-5-26",
+          "title": "제26화 『사랑의 화살표』",
+          "orderInChapter": 26,
+          "globalOrder": 342,
+          "file": "ch5/026.html"
+        },
+        {
+          "id": "ep-5-27",
+          "title": "제27화 『귀에 거슬리는 목소리』",
+          "orderInChapter": 27,
+          "globalOrder": 343,
+          "file": "ch5/027.html"
+        },
+        {
+          "id": "ep-5-28",
+          "title": "제28화 『상처투성이의 작전회의』",
+          "orderInChapter": 28,
+          "globalOrder": 344,
+          "file": "ch5/028.html"
+        },
+        {
+          "id": "ep-5-29",
+          "title": "제29화 『고져스 타이거』",
+          "orderInChapter": 29,
+          "globalOrder": 345,
+          "file": "ch5/029.html"
+        },
+        {
+          "id": "ep-5-30",
+          "title": "제30화 『달밤에 호랑이와 고양이』",
+          "orderInChapter": 30,
+          "globalOrder": 346,
+          "file": "ch5/030.html"
+        },
+        {
+          "id": "ep-5-31",
+          "title": "제31화 『잘못의 대가』",
+          "orderInChapter": 31,
+          "globalOrder": 347,
+          "file": "ch5/031.html"
+        },
+        {
+          "id": "ep-5-32",
+          "title": "제32화 『도시청사 공략 미팅』",
+          "orderInChapter": 32,
+          "globalOrder": 348,
+          "file": "ch5/032.html"
+        },
+        {
+          "id": "ep-5-33",
+          "title": "제33화 『도시청사 공략전』",
+          "orderInChapter": 33,
+          "globalOrder": 349,
+          "file": "ch5/033.html"
+        },
+        {
+          "id": "ep-5-34",
+          "title": "제34화 『검극과 난전』",
+          "orderInChapter": 34,
+          "globalOrder": 350,
+          "file": "ch5/034.html"
+        },
+        {
+          "id": "ep-5-35",
+          "title": "제35화 『매복과 기습』",
+          "orderInChapter": 35,
+          "globalOrder": 351,
+          "file": "ch5/035.html"
+        },
+        {
+          "id": "ep-5-36",
+          "title": "제36화 『사랑의 시작점과 끝점』",
+          "orderInChapter": 36,
+          "globalOrder": 352,
+          "file": "ch5/036.html"
+        },
+        {
+          "id": "ep-5-37",
+          "title": "제37화 『패전 처리』",
+          "orderInChapter": 37,
+          "globalOrder": 353,
+          "file": "ch5/037.html"
+        },
+        {
+          "id": "ep-5-38",
+          "title": "제38화 『마녀교의 요구』",
+          "orderInChapter": 38,
+          "globalOrder": 354,
+          "file": "ch5/038.html"
+        },
+        {
+          "id": "ep-5-39",
+          "title": "제39화 『기사다움과 늦게 온 남자』",
+          "orderInChapter": 39,
+          "globalOrder": 355,
+          "file": "ch5/039.html"
+        },
+        {
+          "id": "ep-5-40",
+          "title": "제40화 『분노의 침식』",
+          "orderInChapter": 40,
+          "globalOrder": 356,
+          "file": "ch5/040.html"
+        },
+        {
+          "id": "ep-5-41",
+          "title": "제41화 『영웅 환상』",
+          "orderInChapter": 41,
+          "globalOrder": 357,
+          "file": "ch5/041.html"
+        },
+        {
+          "id": "ep-5-42",
+          "title": "제42화 『가장 새로운 영웅과 가장 오래된 영웅』",
+          "orderInChapter": 42,
+          "globalOrder": 358,
+          "file": "ch5/042.html"
+        },
+        {
+          "id": "ep-5-43",
+          "title": "제43화 『합류 전 사정』",
+          "orderInChapter": 43,
+          "globalOrder": 359,
+          "file": "ch5/043.html"
+        },
+        {
+          "id": "ep-5-44",
+          "title": "제44화 『허심탄회하게 이야기하자』",
+          "orderInChapter": 44,
+          "globalOrder": 360,
+          "file": "ch5/044.html"
+        },
+        {
+          "id": "ep-5-45",
+          "title": "제45화 『벗어날 수 없는 속박』",
+          "orderInChapter": 45,
+          "globalOrder": 361,
+          "file": "ch5/045.html"
+        },
+        {
+          "id": "ep-5-46",
+          "title": "제46화 『마음의 가짐』",
+          "orderInChapter": 46,
+          "globalOrder": 362,
+          "file": "ch5/046.html"
+        },
+        {
+          "id": "ep-5-47",
+          "title": "제47화 『도시 탈환 공략 전초』",
+          "orderInChapter": 47,
+          "globalOrder": 363,
+          "file": "ch5/047.html"
+        },
+        {
+          "id": "ep-5-48",
+          "title": "제48화 『언젠가 좋아하게 될 사람』",
+          "orderInChapter": 48,
+          "globalOrder": 364,
+          "file": "ch5/048.html"
+        },
+        {
+          "id": "ep-5-49",
+          "title": "제49화 『탐욕 공략전 개막』",
+          "orderInChapter": 49,
+          "globalOrder": 365,
+          "file": "ch5/049.html"
+        },
+        {
+          "id": "ep-5-50",
+          "title": "제50화 『사랑의 쐐기』",
+          "orderInChapter": 50,
+          "globalOrder": 366,
+          "file": "ch5/050.html"
+        },
+        {
+          "id": "ep-5-51",
+          "title": "제51화 『농락하는 악의』",
+          "orderInChapter": 51,
+          "globalOrder": 367,
+          "file": "ch5/051.html"
+        },
+        {
+          "id": "ep-5-52",
+          "title": "제52화 『별과 대죄주교』",
+          "orderInChapter": 52,
+          "globalOrder": 368,
+          "file": "ch5/052.html"
+        },
+        {
+          "id": "ep-5-53",
+          "title": "제53화 『혼전 도시』",
+          "orderInChapter": 53,
+          "globalOrder": 369,
+          "file": "ch5/053.html"
+        },
+        {
+          "id": "ep-5-54",
+          "title": "제54화 『비전투원의 전투력』",
+          "orderInChapter": 54,
+          "globalOrder": 370,
+          "file": "ch5/054.html"
+        },
+        {
+          "id": "ep-5-55",
+          "title": "제55화 『투신과 도전자』",
+          "orderInChapter": 55,
+          "globalOrder": 371,
+          "file": "ch5/055.html"
+        },
+        {
+          "id": "ep-5-ex1",
+          "title": "리제로 EX 『학원 리제로! 1교시!』",
+          "orderInChapter": 56,
+          "globalOrder": 372,
+          "file": "ch5/056.html"
+        },
+        {
+          "id": "ep-5-56",
+          "title": "제56화 『절연장에 사인을』",
+          "orderInChapter": 57,
+          "globalOrder": 373,
+          "file": "ch5/057.html"
+        },
+        {
+          "id": "ep-5-57",
+          "title": "제57화 『심장의 소재』",
+          "orderInChapter": 58,
+          "globalOrder": 374,
+          "file": "ch5/058.html"
+        },
+        {
+          "id": "ep-5-58",
+          "title": "제58화 『――믿고 있어』",
+          "orderInChapter": 59,
+          "globalOrder": 375,
+          "file": "ch5/059.html"
+        },
+        {
+          "id": "ep-5-59",
+          "title": "제59화 『레굴루스 코르니아스』",
+          "orderInChapter": 60,
+          "globalOrder": 376,
+          "file": "ch5/060.html"
+        },
+        {
+          "id": "ep-5-60",
+          "title": "제60화 『하나의 끝과, 하나의 싸움』",
+          "orderInChapter": 61,
+          "globalOrder": 377,
+          "file": "ch5/061.html"
+        },
+        {
+          "id": "ep-5-61",
+          "title": "제61화 『영역의 피해자』",
+          "orderInChapter": 62,
+          "globalOrder": 378,
+          "file": "ch5/062.html"
+        },
+        {
+          "id": "ep-5-62",
+          "title": "제62화 『전사의 찬사』",
+          "orderInChapter": 63,
+          "globalOrder": 379,
+          "file": "ch5/063.html"
+        },
+        {
+          "id": "ep-5-63",
+          "title": "제63화 『릴리아나 매스커레이드의 정열』",
+          "orderInChapter": 64,
+          "globalOrder": 380,
+          "file": "ch5/064.html"
+        },
+        {
+          "id": "ep-5-64",
+          "title": "제64화 『릴리아나 매스커레이드의 우울』",
+          "orderInChapter": 65,
+          "globalOrder": 381,
+          "file": "ch5/065.html"
+        },
+        {
+          "id": "ep-5-65",
+          "title": "제65화 『릴리아나 매스커레이드의 후회』",
+          "orderInChapter": 66,
+          "globalOrder": 382,
+          "file": "ch5/066.html"
+        },
+        {
+          "id": "ep-5-66",
+          "title": "제66화 『릴리아나 매스커레이드의 무대』",
+          "orderInChapter": 67,
+          "globalOrder": 383,
+          "file": "ch5/067.html"
+        },
+        {
+          "id": "ep-5-67",
+          "title": "제67화 『릴리아나 매스커레이』",
+          "orderInChapter": 68,
+          "globalOrder": 384,
+          "file": "ch5/068.html"
+        },
+        {
+          "id": "ep-5-68",
+          "title": "제68화 『이름을 먹는 미식가』",
+          "orderInChapter": 69,
+          "globalOrder": 385,
+          "file": "ch5/069.html"
+        },
+        {
+          "id": "ep-5-69",
+          "title": "제69화 『추악한 만찬회』",
+          "orderInChapter": 70,
+          "globalOrder": 386,
+          "file": "ch5/070.html"
+        },
+        {
+          "id": "ep-5-70",
+          "title": "제70화 『식(食)』",
+          "orderInChapter": 71,
+          "globalOrder": 387,
+          "file": "ch5/071.html"
+        },
+        {
+          "id": "ep-5-71",
+          "title": "제71화 『검귀 VS 전대 검성』",
+          "orderInChapter": 72,
+          "globalOrder": 388,
+          "file": "ch5/072.html"
+        },
+        {
+          "id": "ep-5-72",
+          "title": "제72화 『검성 VS 선대 검성』",
+          "orderInChapter": 73,
+          "globalOrder": 389,
+          "file": "ch5/073.html"
+        },
+        {
+          "id": "ep-5-73",
+          "title": "제73화 『테레시아 반 아스트레아』",
+          "orderInChapter": 74,
+          "globalOrder": 390,
+          "file": "ch5/074.html"
+        },
+        {
+          "id": "ep-5-74",
+          "title": "제74화 『프리스텔라 공방전 결과 1』",
+          "orderInChapter": 75,
+          "globalOrder": 391,
+          "file": "ch5/075.html"
+        },
+        {
+          "id": "ep-5-75",
+          "title": "제75화 『프리스텔라 공방전 결과 2』",
+          "orderInChapter": 76,
+          "globalOrder": 392,
+          "file": "ch5/076.html"
+        },
+        {
+          "id": "ep-5-76",
+          "title": "제76화 『프리스텔라 공방전 결과 3』",
+          "orderInChapter": 77,
+          "globalOrder": 393,
+          "file": "ch5/077.html"
+        },
+        {
+          "id": "ep-5-77",
+          "title": "제77화 『이름 없는 기사』",
+          "orderInChapter": 78,
+          "globalOrder": 394,
+          "file": "ch5/078.html"
+        },
+        {
+          "id": "ep-5-78",
+          "title": "제78화 『수문도시에 남은 파문』",
+          "orderInChapter": 79,
+          "globalOrder": 395,
+          "file": "ch5/079.html"
+        },
+        {
+          "id": "ep-5-79",
+          "title": "제79화 『현자의 감시탑』",
+          "orderInChapter": 80,
+          "globalOrder": 396,
+          "file": "ch5/080.html"
+        },
+        {
+          "id": "ep-5-80",
+          "title": "제80화 『수면에 파문을 남기고』",
+          "orderInChapter": 81,
+          "globalOrder": 397,
+          "file": "ch5/081.html"
+        },
+        {
+          "id": "ep-5-ex2",
+          "title": "리제로 EX 『학원 리제로! 2교시!』",
+          "orderInChapter": 82,
+          "globalOrder": 398,
+          "file": "ch5/082.html"
+        },
+        {
+          "id": "ep-5-81",
+          "title": "제81화 『탐욕의 그릇을 채우는 자』",
+          "orderInChapter": 83,
+          "globalOrder": 399,
+          "file": "ch5/083.html"
+        },
+        {
+          "id": "ep-5-m1",
+          "title": "막간 『반려의 조건』",
+          "orderInChapter": 84,
+          "globalOrder": 400,
+          "file": "ch5/084.html"
+        },
+        {
+          "id": "ep-5-m2",
+          "title": "막간 『미완성의 대기』",
+          "orderInChapter": 85,
+          "globalOrder": 401,
+          "file": "ch5/085.html"
+        },
+        {
+          "id": "ep-5-m3",
+          "title": "막간 『온기의 이름』",
+          "orderInChapter": 86,
+          "globalOrder": 402,
+          "file": "ch5/086.html"
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-6",
+      "chapterTitle": "제6장 『기억의 회랑』 에피소드 목록",
+      "folder": "ch6",
+      "episodes": [
+        {
+          "id": "ep-6-1",
+          "title": "제1화 『용차 귀환로』",
+          "orderInChapter": 1,
+          "globalOrder": 403,
+          "file": "ch6/001.html"
+        },
+        {
+          "id": "ep-6-2",
+          "title": "제2화 『그 나름의 환대』",
+          "orderInChapter": 2,
+          "globalOrder": 404,
+          "file": "ch6/002.html"
+        },
+        {
+          "id": "ep-6-3",
+          "title": "제3화 『소녀의 우리』",
+          "orderInChapter": 3,
+          "globalOrder": 405,
+          "file": "ch6/003.html"
+        },
+        {
+          "id": "ep-6-4",
+          "title": "제4화 『너를 데리고 나가는 이유』",
+          "orderInChapter": 4,
+          "globalOrder": 406,
+          "file": "ch6/004.html"
+        },
+        {
+          "id": "ep-6-5",
+          "title": "제5화 『각자의 불안』",
+          "orderInChapter": 5,
+          "globalOrder": 407,
+          "file": "ch6/005.html"
+        },
+        {
+          "id": "ep-6-6",
+          "title": "제6화 『유클리우스의 이름』",
+          "orderInChapter": 6,
+          "globalOrder": 408,
+          "file": "ch6/006.html"
+        },
+        {
+          "id": "ep-6-7",
+          "title": "제7화 『사해를 목표로』",
+          "orderInChapter": 7,
+          "globalOrder": 409,
+          "file": "ch6/007.html"
+        },
+        {
+          "id": "ep-6-8",
+          "title": "제8화 『사구의 세례』",
+          "orderInChapter": 8,
+          "globalOrder": 410,
+          "file": "ch6/008.html"
+        },
+        {
+          "id": "ep-6-9",
+          "title": "제9화 『사시간을 넘어라』",
+          "orderInChapter": 9,
+          "globalOrder": 411,
+          "file": "ch6/009.html"
+        },
+        {
+          "id": "ep-6-10",
+          "title": "제10화 『섬광과 같이』",
+          "orderInChapter": 10,
+          "globalOrder": 412,
+          "file": "ch6/010.html"
+        },
+        {
+          "id": "ep-6-11",
+          "title": "제11화 『울음소리가 들린다』",
+          "orderInChapter": 11,
+          "globalOrder": 413,
+          "file": "ch6/011.html"
+        },
+        {
+          "id": "ep-6-12",
+          "title": "제12화 『감시탑의 세례』",
+          "orderInChapter": 12,
+          "globalOrder": 414,
+          "file": "ch6/012.html"
+        },
+        {
+          "id": "ep-6-13",
+          "title": "제13화 『모래의 조소』",
+          "orderInChapter": 13,
+          "globalOrder": 415,
+          "file": "ch6/013.html"
+        },
+        {
+          "id": "ep-6-14",
+          "title": "제14화 『사상의 신뢰』",
+          "orderInChapter": 14,
+          "globalOrder": 416,
+          "file": "ch6/014.html"
+        },
+        {
+          "id": "ep-6-15",
+          "title": "제15화 『모래에 흩어지다』",
+          "orderInChapter": 15,
+          "globalOrder": 417,
+          "file": "ch6/015.html"
+        },
+        {
+          "id": "ep-6-16",
+          "title": "제16화 『저작의 잔재』",
+          "orderInChapter": 16,
+          "globalOrder": 418,
+          "file": "ch6/016.html"
+        },
+        {
+          "id": "ep-6-17",
+          "title": "제17화 『사해의 왕』",
+          "orderInChapter": 17,
+          "globalOrder": 419,
+          "file": "ch6/017.html"
+        },
+        {
+          "id": "ep-6-18",
+          "title": "제18화 『모래 탑의 파수꾼』",
+          "orderInChapter": 18,
+          "globalOrder": 420,
+          "file": "ch6/018.html"
+        },
+        {
+          "id": "ep-6-19",
+          "title": "제19화 『현자의 행방』",
+          "orderInChapter": 19,
+          "globalOrder": 421,
+          "file": "ch6/019.html"
+        },
+        {
+          "id": "ep-6-20",
+          "title": "제20화 『샤울라 ≠ 현자 = 플뤼겔』",
+          "orderInChapter": 20,
+          "globalOrder": 422,
+          "file": "ch6/020.html"
+        },
+        {
+          "id": "ep-6-21",
+          "title": "제21화 『모노리스의 도전장』",
+          "orderInChapter": 21,
+          "globalOrder": 423,
+          "file": "ch6/021.html"
+        },
+        {
+          "id": "ep-6-22",
+          "title": "제22화 『하얀 밤하늘의 아스테리즘』",
+          "orderInChapter": 22,
+          "globalOrder": 424,
+          "file": "ch6/022.html"
+        },
+        {
+          "id": "ep-6-23",
+          "title": "제23화 『3층 타이게타 서고평』",
+          "orderInChapter": 23,
+          "globalOrder": 425,
+          "file": "ch6/023.html"
+        },
+        {
+          "id": "ep-6-24",
+          "title": "제24화 『비뚤어진 시험관』",
+          "orderInChapter": 24,
+          "globalOrder": 426,
+          "file": "ch6/024.html"
+        },
+        {
+          "id": "ep-6-25",
+          "title": "제25화 『2층 엘렉트라의 기다리는 사람』",
+          "orderInChapter": 25,
+          "globalOrder": 427,
+          "file": "ch6/025.html"
+        },
+        {
+          "id": "ep-6-26",
+          "title": "제26화 『몽둥이 휘두르는 남자』",
+          "orderInChapter": 26,
+          "globalOrder": 428,
+          "file": "ch6/026.html"
+        },
+        {
+          "id": "ep-6-27",
+          "title": "제27화 『엘렉트라의 벽』",
+          "orderInChapter": 27,
+          "globalOrder": 429,
+          "file": "ch6/027.html"
+        },
+        {
+          "id": "ep-6-28",
+          "title": "제28화 『율리우스 유클리우스』",
+          "orderInChapter": 28,
+          "globalOrder": 430,
+          "file": "ch6/028.html"
+        },
+        {
+          "id": "ep-6-29",
+          "title": "제29화 『루저』",
+          "orderInChapter": 29,
+          "globalOrder": 431,
+          "file": "ch6/029.html"
+        },
+        {
+          "id": "ep-6-30",
+          "title": "제30화 『2층 공략 반성회』",
+          "orderInChapter": 30,
+          "globalOrder": 432,
+          "file": "ch6/030.html"
+        },
+        {
+          "id": "ep-6-31",
+          "title": "제31화 『탑 공동생활의 추천』",
+          "orderInChapter": 31,
+          "globalOrder": 433,
+          "file": "ch6/031.html"
+        },
+        {
+          "id": "ep-6-32",
+          "title": "제32화 『누구』",
+          "orderInChapter": 32,
+          "globalOrder": 434,
+          "file": "ch6/032.html"
+        },
+        {
+          "id": "ep-6-33",
+          "title": "제33화 『■■■・■■■』",
+          "orderInChapter": 33,
+          "globalOrder": 435,
+          "file": "ch6/033.html"
+        },
+        {
+          "id": "ep-6-34",
+          "title": "제34화 『편의점을 나오니, 그곳은 신비한 세계였습니다』",
+          "orderInChapter": 34,
+          "globalOrder": 436,
+          "file": "ch6/034.html"
+        },
+        {
+          "id": "ep-6-35",
+          "title": "제35화 『살얼음 관계』",
+          "orderInChapter": 35,
+          "globalOrder": 437,
+          "file": "ch6/035.html"
+        },
+        {
+          "id": "ep-6-36",
+          "title": "제36화 『안도감의 놓을 곳』",
+          "orderInChapter": 36,
+          "globalOrder": 438,
+          "file": "ch6/036.html"
+        },
+        {
+          "id": "ep-6-37",
+          "title": "제37화 『ハリボテ(ハリボテ)가 꾸는 꿈』",
+          "orderInChapter": 37,
+          "globalOrder": 439,
+          "file": "ch6/037.html"
+        },
+        {
+          "id": "ep-6-38",
+          "title": "제38화 『오마에와다레다』",
+          "orderInChapter": 38,
+          "globalOrder": 440,
+          "file": "ch6/038.html"
+        },
+        {
+          "id": "ep-6-39",
+          "title": "제39화 『잔해』",
+          "orderInChapter": 39,
+          "globalOrder": 441,
+          "file": "ch6/039.html"
+        },
+        {
+          "id": "ep-6-40",
+          "title": "제40화 『밤하늘에 버림받아』",
+          "orderInChapter": 40,
+          "globalOrder": 442,
+          "file": "ch6/040.html"
+        },
+        {
+          "id": "ep-6-41",
+          "title": "제41화 『안식의 냄새』",
+          "orderInChapter": 41,
+          "globalOrder": 443,
+          "file": "ch6/041.html"
+        },
+        {
+          "id": "ep-6-42",
+          "title": "제42화 『죽은 자들의 탑』",
+          "orderInChapter": 42,
+          "globalOrder": 444,
+          "file": "ch6/042.html"
+        },
+        {
+          "id": "ep-6-43",
+          "title": "제43화 『산 자들의 탑』",
+          "orderInChapter": 43,
+          "globalOrder": 445,
+          "file": "ch6/043.html"
+        },
+        {
+          "id": "ep-6-44",
+          "title": "제44화 『피의 훈장』",
+          "orderInChapter": 44,
+          "globalOrder": 446,
+          "file": "ch6/044.html"
+        },
+        {
+          "id": "ep-6-45",
+          "title": "제45화 『죄인의 포옹』",
+          "orderInChapter": 45,
+          "globalOrder": 447,
+          "file": "ch6/045.html"
+        },
+        {
+          "id": "ep-6-46",
+          "title": "제46화 『메이리 포트루트』",
+          "orderInChapter": 46,
+          "globalOrder": 448,
+          "file": "ch6/046.html"
+        },
+        {
+          "id": "ep-6-47",
+          "title": "제47화 『나는 용서하지 않아』",
+          "orderInChapter": 47,
+          "globalOrder": 449,
+          "file": "ch6/047.html"
+        },
+        {
+          "id": "ep-6-48",
+          "title": "제48화 『――살인은, 버릇이 된다』",
+          "orderInChapter": 48,
+          "globalOrder": 450,
+          "file": "ch6/048.html"
+        },
+        {
+          "id": "ep-6-49",
+          "title": "제49화 『낙제생인 당신에게』",
+          "orderInChapter": 49,
+          "globalOrder": 451,
+          "file": "ch6/049.html"
+        },
+        {
+          "id": "ep-6-50",
+          "title": "제50화 『――낙제생이야말로 당신으로』",
+          "orderInChapter": 50,
+          "globalOrder": 452,
+          "file": "ch6/050.html"
+        },
+        {
+          "id": "ep-6-51",
+          "title": "제51화 『산 자들의 탑 PART 2』",
+          "orderInChapter": 51,
+          "globalOrder": 453,
+          "file": "ch6/051.html"
+        },
+        {
+          "id": "ep-6-52",
+          "title": "제52화 『신님, 용서해주세요』",
+          "orderInChapter": 52,
+          "globalOrder": 454,
+          "file": "ch6/052.html"
+        },
+        {
+          "id": "ep-6-53",
+          "title": "제53화 『――목소리가, 났다』",
+          "orderInChapter": 53,
+          "globalOrder": 455,
+          "file": "ch6/053.html"
+        },
+        {
+          "id": "ep-6-54",
+          "title": "제54화 『Re: 제로부터 시작하는 이세계 생활』",
+          "orderInChapter": 54,
+          "globalOrder": 456,
+          "file": "ch6/054.html"
+        },
+        {
+          "id": "ep-6-55",
+          "title": "제55화 『해빙을 기다리는 당신』",
+          "orderInChapter": 55,
+          "globalOrder": 457,
+          "file": "ch6/055.html"
+        },
+        {
+          "id": "ep-6-56",
+          "title": "제56화 『앞으로의 이야기』",
+          "orderInChapter": 56,
+          "globalOrder": 458,
+          "file": "ch6/056.html"
+        },
+        {
+          "id": "ep-6-57",
+          "title": "제57화 『일단 두자』",
+          "orderInChapter": 57,
+          "globalOrder": 459,
+          "file": "ch6/057.html"
+        },
+        {
+          "id": "ep-6-58",
+          "title": "제58화 『그건 그거, 이건 이거』",
+          "orderInChapter": 58,
+          "globalOrder": 460,
+          "file": "ch6/058.html"
+        },
+        {
+          "id": "ep-6-59",
+          "title": "제59화 『하얀 세계에서 비웃다』",
+          "orderInChapter": 59,
+          "globalOrder": 461,
+          "file": "ch6/059.html"
+        },
+        {
+          "id": "ep-6-60",
+          "title": "제60화 『한 몫의 양지』",
+          "orderInChapter": 60,
+          "globalOrder": 462,
+          "file": "ch6/060.html"
+        },
+        {
+          "id": "ep-6-61",
+          "title": "제61화 『――서라』",
+          "orderInChapter": 61,
+          "globalOrder": 463,
+          "file": "ch6/061.html"
+        },
+        {
+          "id": "ep-6-62",
+          "title": "제62화 『붕괴의 지진』",
+          "orderInChapter": 62,
+          "globalOrder": 464,
+          "file": "ch6/062.html"
+        },
+        {
+          "id": "ep-6-63",
+          "title": "제63화 『다섯 개의 장애』",
+          "orderInChapter": 63,
+          "globalOrder": 465,
+          "file": "ch6/063.html"
+        },
+        {
+          "id": "ep-6-64",
+          "title": "제64화 『두 번째 장애』",
+          "orderInChapter": 64,
+          "globalOrder": 466,
+          "file": "ch6/064.html"
+        },
+        {
+          "id": "ep-6-65",
+          "title": "제65화 『두 번째와, 다섯 번째와, 그리고――』",
+          "orderInChapter": 65,
+          "globalOrder": 467,
+          "file": "ch6/065.html"
+        },
+        {
+          "id": "ep-6-66",
+          "title": "제66화 『종언으로의 세컨드 찬스』",
+          "orderInChapter": 66,
+          "globalOrder": 468,
+          "file": "ch6/066.html"
+        },
+        {
+          "id": "ep-6-67",
+          "title": "제67화 『작은 왕』",
+          "orderInChapter": 67,
+          "globalOrder": 469,
+          "file": "ch6/067.html"
+        },
+        {
+          "id": "ep-6-68",
+          "title": "제68화 『전갈자리의 여자』",
+          "orderInChapter": 68,
+          "globalOrder": 470,
+          "file": "ch6/068.html"
+        },
+        {
+          "id": "ep-6-69",
+          "title": "제69화 『불합리한 검의 철퇴』",
+          "orderInChapter": 69,
+          "globalOrder": 471,
+          "file": "ch6/069.html"
+        },
+        {
+          "id": "ep-6-70",
+          "title": "제70화 『일편단심의 별』",
+          "orderInChapter": 70,
+          "globalOrder": 472,
+          "file": "ch6/070.html"
+        },
+        {
+          "id": "ep-6-71",
+          "title": "제71화 『카운트 원』",
+          "orderInChapter": 71,
+          "globalOrder": 473,
+          "file": "ch6/071.html"
+        },
+        {
+          "id": "ep-6-72",
+          "title": "제72화 『■■・■』",
+          "orderInChapter": 72,
+          "globalOrder": 474,
+          "file": "ch6/072.html"
+        },
+        {
+          "id": "ep-6-73",
+          "title": "제73화 『『나츠키 스바루』』",
+          "orderInChapter": 73,
+          "globalOrder": 475,
+          "file": "ch6/073.html"
+        },
+        {
+          "id": "ep-6-74",
+          "title": "제74화 『나츠키 스바루』",
+          "orderInChapter": 74,
+          "globalOrder": 476,
+          "file": "ch6/074.html"
+        },
+        {
+          "id": "ep-6-75",
+          "title": "제75화 『루이 아르네브』",
+          "orderInChapter": 75,
+          "globalOrder": 477,
+          "file": "ch6/075.html"
+        },
+        {
+          "id": "ep-6-76",
+          "title": "제76화 『나라는 이름의 지옥』",
+          "orderInChapter": 76,
+          "globalOrder": 478,
+          "file": "ch6/076.html"
+        },
+        {
+          "id": "ep-6-77",
+          "title": "제77화 『반격의 봉화』",
+          "orderInChapter": 77,
+          "globalOrder": 479,
+          "file": "ch6/077.html"
+        },
+        {
+          "id": "ep-6-78",
+          "title": "제78화 『뿔 네 개』",
+          "orderInChapter": 78,
+          "globalOrder": 480,
+          "file": "ch6/078.html"
+        },
+        {
+          "id": "ep-6-79",
+          "title": "제79화 『READY STEADY GO』",
+          "orderInChapter": 79,
+          "globalOrder": 481,
+          "file": "ch6/079.html"
+        },
+        {
+          "id": "ep-6-80",
+          "title": "제80화 『정신의 죽음』",
+          "orderInChapter": 80,
+          "globalOrder": 482,
+          "file": "ch6/080.html"
+        },
+        {
+          "id": "ep-6-81",
+          "title": "제81화 『――처음 뵙겠습니다』",
+          "orderInChapter": 81,
+          "globalOrder": 483,
+          "file": "ch6/081.html"
+        },
+        {
+          "id": "ep-6-82",
+          "title": "제82화 『굴레가 있는 싸움』",
+          "orderInChapter": 82,
+          "globalOrder": 484,
+          "file": "ch6/082.html"
+        },
+        {
+          "id": "ep-6-83",
+          "title": "제83화 『람』",
+          "orderInChapter": 83,
+          "globalOrder": 485,
+          "file": "ch6/083.html"
+        },
+        {
+          "id": "ep-6-84",
+          "title": "제84화 『영차! 으랏차!』",
+          "orderInChapter": 84,
+          "globalOrder": 486,
+          "file": "ch6/084.html"
+        },
+        {
+          "id": "ep-6-85",
+          "title": "제85화 『굿 루저』",
+          "orderInChapter": 85,
+          "globalOrder": 487,
+          "file": "ch6/085.html"
+        },
+        {
+          "id": "ep-6-86",
+          "title": "제86화 『어제의 이야기』",
+          "orderInChapter": 86,
+          "globalOrder": 488,
+          "file": "ch6/086.html"
+        },
+        {
+          "id": "ep-6-87",
+          "title": "제87화 『먼 눈빛』",
+          "orderInChapter": 87,
+          "globalOrder": 489,
+          "file": "ch6/087.html"
+        },
+        {
+          "id": "ep-6-88",
+          "title": "제88화 『――뜻을 묻지 않겠다』",
+          "orderInChapter": 88,
+          "globalOrder": 490,
+          "file": "ch6/088.html"
+        },
+        {
+          "id": "ep-6-89",
+          "title": "제89화 『샤울라』",
+          "orderInChapter": 89,
+          "globalOrder": 491,
+          "file": "ch6/089.html"
+        },
+        {
+          "id": "ep-6-90",
+          "title": "제90화 『영웅』",
+          "orderInChapter": 90,
+          "globalOrder": 492,
+          "file": "ch6/090.html"
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-7",
+      "chapterTitle": "제7장 『늑대의 나라』 에피소드 목록",
+      "folder": "ch7",
+      "episodes": [
+        {
+          "id": "ep-7-1",
+          "title": "제1화 『세례』",
+          "orderInChapter": 1,
+          "globalOrder": 493,
+          "file": "ch7/001.html"
+        },
+        {
+          "id": "ep-7-2",
+          "title": "제2화 『애니멀 트래킹』",
+          "orderInChapter": 2,
+          "globalOrder": 494,
+          "file": "ch7/002.html"
+        },
+        {
+          "id": "ep-7-3",
+          "title": "제3화 『VS 렘』",
+          "orderInChapter": 3,
+          "globalOrder": 495,
+          "file": "ch7/003.html"
+        },
+        {
+          "id": "ep-7-4",
+          "title": "제4화 『용기 있는 선택』",
+          "orderInChapter": 4,
+          "globalOrder": 496,
+          "file": "ch7/004.html"
+        },
+        {
+          "id": "ep-7-5",
+          "title": "제5화 『남자는 괴로워』",
+          "orderInChapter": 5,
+          "globalOrder": 497,
+          "file": "ch7/005.html"
+        },
+        {
+          "id": "ep-7-6",
+          "title": "제6화 『머나먼 남쪽 땅』",
+          "orderInChapter": 6,
+          "globalOrder": 498,
+          "file": "ch7/006.html"
+        },
+        {
+          "id": "ep-7-7",
+          "title": "제7화 『남자는 괴로웠어』",
+          "orderInChapter": 7,
+          "globalOrder": 499,
+          "file": "ch7/007.html"
+        },
+        {
+          "id": "ep-7-8",
+          "title": "제8화 『이름』",
+          "orderInChapter": 8,
+          "globalOrder": 500,
+          "file": "ch7/008.html"
+        },
+        {
+          "id": "ep-7-9",
+          "title": "제9화 『제국의 방식』",
+          "orderInChapter": 9,
+          "globalOrder": 501,
+          "file": "ch7/009.html"
+        },
+        {
+          "id": "ep-7-10",
+          "title": "제10화 『슈드라크의 민족』",
+          "orderInChapter": 10,
+          "globalOrder": 502,
+          "file": "ch7/010.html"
+        },
+        {
+          "id": "ep-7-11",
+          "title": "제11화 『혈명의 의식』",
+          "orderInChapter": 11,
+          "globalOrder": 503,
+          "file": "ch7/011.html"
+        },
+        {
+          "id": "ep-7-12",
+          "title": "제12화 『볼라키아 제국』",
+          "orderInChapter": 12,
+          "globalOrder": 504,
+          "file": "ch7/012.html"
+        },
+        {
+          "id": "ep-7-13",
+          "title": "제13화 『신이 아닌 몸으로』",
+          "orderInChapter": 13,
+          "globalOrder": 505,
+          "file": "ch7/013.html"
+        },
+        {
+          "id": "ep-7-ex1",
+          "title": "리제로 EX 『학원 리제로! 4교시!』",
+          "orderInChapter": 14,
+          "globalOrder": 506,
+          "file": "ch7/014.html"
+        },
+        {
+          "id": "ep-7-14",
+          "title": "제14화 『메우기 어려운 가치관』",
+          "orderInChapter": 15,
+          "globalOrder": 507,
+          "file": "ch7/015.html"
+        },
+        {
+          "id": "ep-7-15",
+          "title": "제15화 『지키고 싶은 것』",
+          "orderInChapter": 16,
+          "globalOrder": 508,
+          "file": "ch7/016.html"
+        },
+        {
+          "id": "ep-7-16",
+          "title": "제16화 『제국 사정』",
+          "orderInChapter": 17,
+          "globalOrder": 509,
+          "file": "ch7/017.html"
+        },
+        {
+          "id": "ep-7-17",
+          "title": "제17화 『다가오는 흉기』",
+          "orderInChapter": 18,
+          "globalOrder": 510,
+          "file": "ch7/018.html"
+        },
+        {
+          "id": "ep-7-18",
+          "title": "제18화 『성곽도시 과랄 공방전』",
+          "orderInChapter": 19,
+          "globalOrder": 511,
+          "file": "ch7/019.html"
+        },
+        {
+          "id": "ep-7-19",
+          "title": "제19화 『꺼림칙한 재회』",
+          "orderInChapter": 20,
+          "globalOrder": 512,
+          "file": "ch7/020.html"
+        },
+        {
+          "id": "ep-7-20",
+          "title": "제20화 『황제／상인／나츠키 스바루』",
+          "orderInChapter": 21,
+          "globalOrder": 513,
+          "file": "ch7/021.html"
+        },
+        {
+          "id": "ep-7-21",
+          "title": "제21화 『지쿠르 오스만』",
+          "orderInChapter": 22,
+          "globalOrder": 514,
+          "file": "ch7/022.html"
+        },
+        {
+          "id": "ep-7-22",
+          "title": "제22화 『무혈 개성 계획』",
+          "orderInChapter": 23,
+          "globalOrder": 515,
+          "file": "ch7/023.html"
+        },
+        {
+          "id": "ep-7-23",
+          "title": "제23화 『악사 나츠미 슈바르츠』",
+          "orderInChapter": 24,
+          "globalOrder": 516,
+          "file": "ch7/024.html"
+        },
+        {
+          "id": "ep-7-24",
+          "title": "제24화 『오만불손』",
+          "orderInChapter": 25,
+          "globalOrder": 517,
+          "file": "ch7/025.html"
+        },
+        {
+          "id": "ep-7-25",
+          "title": "제25화 『재회는 타오르는 피처럼』",
+          "orderInChapter": 26,
+          "globalOrder": 518,
+          "file": "ch7/026.html"
+        },
+        {
+          "id": "ep-7-26",
+          "title": "제26화 『춤추는 원탁회의』",
+          "orderInChapter": 27,
+          "globalOrder": 519,
+          "file": "ch7/027.html"
+        },
+        {
+          "id": "ep-7-27",
+          "title": "제27화 『가진 자와 못 가진 자』",
+          "orderInChapter": 28,
+          "globalOrder": 520,
+          "file": "ch7/028.html"
+        },
+        {
+          "id": "ep-7-28",
+          "title": "제28화 『승리 조건』",
+          "orderInChapter": 29,
+          "globalOrder": 521,
+          "file": "ch7/029.html"
+        },
+        {
+          "id": "ep-7-29",
+          "title": "제29화 『각자의 입장』",
+          "orderInChapter": 30,
+          "globalOrder": 522,
+          "file": "ch7/030.html"
+        },
+        {
+          "id": "ep-7-30",
+          "title": "제30화 『자칭 영웅 나츠키 스바루』",
+          "orderInChapter": 31,
+          "globalOrder": 523,
+          "file": "ch7/031.html"
+        },
+        {
+          "id": "ep-7-31",
+          "title": "제31화 『동향의 대화』",
+          "orderInChapter": 32,
+          "globalOrder": 524,
+          "file": "ch7/032.html"
+        },
+        {
+          "id": "ep-7-32",
+          "title": "제32화 『나아갈 길』",
+          "orderInChapter": 33,
+          "globalOrder": 525,
+          "file": "ch7/033.html"
+        },
+        {
+          "id": "ep-7-33",
+          "title": "제33화 『자, 마도로의 여행길로』",
+          "orderInChapter": 34,
+          "globalOrder": 526,
+          "file": "ch7/034.html"
+        },
+        {
+          "id": "ep-7-34",
+          "title": "제34화 『마차에서의 한바탕』",
+          "orderInChapter": 35,
+          "globalOrder": 527,
+          "file": "ch7/035.html"
+        },
+        {
+          "id": "ep-7-35",
+          "title": "제35화 『밤을 지새우며』",
+          "orderInChapter": 36,
+          "globalOrder": 528,
+          "file": "ch7/036.html"
+        },
+        {
+          "id": "ep-7-36",
+          "title": "제36화 『혼돈의 마도』",
+          "orderInChapter": 37,
+          "globalOrder": 529,
+          "file": "ch7/037.html"
+        },
+        {
+          "id": "ep-7-37",
+          "title": "제37화 『홍류리성의 주인』",
+          "orderInChapter": 38,
+          "globalOrder": 530,
+          "file": "ch7/038.html"
+        },
+        {
+          "id": "ep-7-38",
+          "title": "제38화 『8년 만의 포상』",
+          "orderInChapter": 39,
+          "globalOrder": 531,
+          "file": "ch7/039.html"
+        },
+        {
+          "id": "ep-7-39",
+          "title": "제39화 『악랄』",
+          "orderInChapter": 40,
+          "globalOrder": 532,
+          "file": "ch7/040.html"
+        },
+        {
+          "id": "ep-7-40",
+          "title": "제40화 『나추키 슈발』",
+          "orderInChapter": 41,
+          "globalOrder": 533,
+          "file": "ch7/041.html"
+        },
+        {
+          "id": "ep-7-41",
+          "title": "제41화 『차 마시며 하는 이야기』",
+          "orderInChapter": 42,
+          "globalOrder": 534,
+          "file": "ch7/042.html"
+        },
+        {
+          "id": "ep-7-42",
+          "title": "제42화 『야망의 짐승』",
+          "orderInChapter": 43,
+          "globalOrder": 535,
+          "file": "ch7/043.html"
+        },
+        {
+          "id": "ep-7-43",
+          "title": "제43화 『눈꺼풀 안쪽』",
+          "orderInChapter": 44,
+          "globalOrder": 536,
+          "file": "ch7/044.html"
+        },
+        {
+          "id": "ep-7-44",
+          "title": "제44화 『수축하는 시야』",
+          "orderInChapter": 45,
+          "globalOrder": 537,
+          "file": "ch7/045.html"
+        },
+        {
+          "id": "ep-7-45",
+          "title": "제45화 『콘콘』",
+          "orderInChapter": 46,
+          "globalOrder": 538,
+          "file": "ch7/046.html"
+        },
+        {
+          "id": "ep-7-46",
+          "title": "제46화 『어린 만용』",
+          "orderInChapter": 47,
+          "globalOrder": 539,
+          "file": "ch7/047.html"
+        },
+        {
+          "id": "ep-7-47",
+          "title": "제47화 『사라지지 않는 ■■』",
+          "orderInChapter": 48,
+          "globalOrder": 540,
+          "file": "ch7/048.html"
+        },
+        {
+          "id": "ep-7-48",
+          "title": "제48화 『속셈이 얽힌 마도』",
+          "orderInChapter": 49,
+          "globalOrder": 541,
+          "file": "ch7/049.html"
+        },
+        {
+          "id": "ep-7-49",
+          "title": "제49화 『별의 인연』",
+          "orderInChapter": 50,
+          "globalOrder": 542,
+          "file": "ch7/050.html"
+        },
+        {
+          "id": "ep-7-50",
+          "title": "제50화 『전망 좋은 \"구멍\"』",
+          "orderInChapter": 51,
+          "globalOrder": 543,
+          "file": "ch7/051.html"
+        },
+        {
+          "id": "ep-7-51",
+          "title": "제51화 『마도의 여주인』",
+          "orderInChapter": 52,
+          "globalOrder": 544,
+          "file": "ch7/052.html"
+        },
+        {
+          "id": "ep-7-52",
+          "title": "제52화 『사랑하는 마음은 양보 못해』",
+          "orderInChapter": 53,
+          "globalOrder": 545,
+          "file": "ch7/053.html"
+        },
+        {
+          "id": "ep-7-53",
+          "title": "제53화 『11초 그 너머』",
+          "orderInChapter": 54,
+          "globalOrder": 546,
+          "file": "ch7/054.html"
+        },
+        {
+          "id": "ep-7-54",
+          "title": "제54화 『이상향 카오스 프레임』",
+          "orderInChapter": 55,
+          "globalOrder": 547,
+          "file": "ch7/055.html"
+        },
+        {
+          "id": "ep-7-55",
+          "title": "제55화 『마도 광상곡』",
+          "orderInChapter": 56,
+          "globalOrder": 548,
+          "file": "ch7/056.html"
+        },
+        {
+          "id": "ep-7-56",
+          "title": "제56화 『대재앙』",
+          "orderInChapter": 57,
+          "globalOrder": 549,
+          "file": "ch7/057.html"
+        },
+        {
+          "id": "ep-7-57",
+          "title": "제57화 『현명하게는 살 수 없다』",
+          "orderInChapter": 58,
+          "globalOrder": 550,
+          "file": "ch7/058.html"
+        },
+        {
+          "id": "ep-7-ex2",
+          "title": "리제로 EX 『제로부터 미마가우 이세계 생활』",
+          "orderInChapter": 59,
+          "globalOrder": 551,
+          "file": "ch7/059.html"
+        },
+        {
+          "id": "ep-7-58",
+          "title": "제58화 『의지할 곳 없는 자들』",
+          "orderInChapter": 60,
+          "globalOrder": 552,
+          "file": "ch7/060.html"
+        },
+        {
+          "id": "ep-7-59",
+          "title": "제59화 『타리타 슈드라크』",
+          "orderInChapter": 61,
+          "globalOrder": 553,
+          "file": "ch7/061.html"
+        },
+        {
+          "id": "ep-7-60",
+          "title": "제60화 『파란의 씨 뿌리기』",
+          "orderInChapter": 62,
+          "globalOrder": 554,
+          "file": "ch7/062.html"
+        },
+        {
+          "id": "ep-7-54b",
+          "title": "제54화 B 『창공을 덮다』",
+          "orderInChapter": 63,
+          "globalOrder": 555,
+          "file": "ch7/063.html"
+        },
+        {
+          "id": "ep-7-55b",
+          "title": "제55화 B 『성곽도시 광상곡』",
+          "orderInChapter": 64,
+          "globalOrder": 556,
+          "file": "ch7/064.html"
+        },
+        {
+          "id": "ep-7-56b",
+          "title": "제56화 B 『비룡 재해』",
+          "orderInChapter": 65,
+          "globalOrder": 557,
+          "file": "ch7/065.html"
+        },
+        {
+          "id": "ep-7-57b",
+          "title": "제57화 B 『대바보라고 불려도 상관없다』",
+          "orderInChapter": 66,
+          "globalOrder": 558,
+          "file": "ch7/066.html"
+        },
+        {
+          "id": "ep-7-58b",
+          "title": "제58화 B 『의지할 곳 없는 자들』",
+          "orderInChapter": 67,
+          "globalOrder": 559,
+          "file": "ch7/067.html"
+        },
+        {
+          "id": "ep-7-59b",
+          "title": "제59화 B 『프롭 오코넬』",
+          "orderInChapter": 68,
+          "globalOrder": 560,
+          "file": "ch7/068.html"
+        },
+        {
+          "id": "ep-7-61",
+          "title": "제61화 『어서 와, 검노 고도로!』",
+          "orderInChapter": 69,
+          "globalOrder": 561,
+          "file": "ch7/069.html"
+        },
+        {
+          "id": "ep-7-62",
+          "title": "제62화 『고도의 질서』",
+          "orderInChapter": 70,
+          "globalOrder": 562,
+          "file": "ch7/070.html"
+        },
+        {
+          "id": "ep-7-63",
+          "title": "제63화 『스팔카』",
+          "orderInChapter": 71,
+          "globalOrder": 563,
+          "file": "ch7/071.html"
+        },
+        {
+          "id": "ep-7-64",
+          "title": "제64화 『마법의 말』",
+          "orderInChapter": 72,
+          "globalOrder": 564,
+          "file": "ch7/072.html"
+        },
+        {
+          "id": "ep-7-65",
+          "title": "제65화 『학원 푸드 파이터』",
+          "orderInChapter": 73,
+          "globalOrder": 565,
+          "file": "ch7/073.html"
+        },
+        {
+          "id": "ep-7-66",
+          "title": "제66화 『히아인 야츠』",
+          "orderInChapter": 74,
+          "globalOrder": 566,
+          "file": "ch7/074.html"
+        },
+        {
+          "id": "ep-7-67",
+          "title": "제67화 『어금니 안쪽』",
+          "orderInChapter": 75,
+          "globalOrder": 567,
+          "file": "ch7/075.html"
+        },
+        {
+          "id": "ep-7-68",
+          "title": "제68화 『검랑의 인도』",
+          "orderInChapter": 76,
+          "globalOrder": 568,
+          "file": "ch7/076.html"
+        },
+        {
+          "id": "ep-7-69",
+          "title": "제69화 『제도로부터 오다』",
+          "orderInChapter": 77,
+          "globalOrder": 569,
+          "file": "ch7/077.html"
+        },
+        {
+          "id": "ep-7-70",
+          "title": "제70화 『한 개』",
+          "orderInChapter": 78,
+          "globalOrder": 570,
+          "file": "ch7/078.html"
+        },
+        {
+          "id": "ep-7-71",
+          "title": "제71화 『물』",
+          "orderInChapter": 79,
+          "globalOrder": 571,
+          "file": "ch7/079.html"
+        },
+        {
+          "id": "ep-7-72",
+          "title": "제72화 『터무니없는 소문』",
+          "orderInChapter": 80,
+          "globalOrder": 572,
+          "file": "ch7/080.html"
+        },
+        {
+          "id": "ep-7-73",
+          "title": "제73화 『바이츠 로근』",
+          "orderInChapter": 81,
+          "globalOrder": 573,
+          "file": "ch7/081.html"
+        },
+        {
+          "id": "ep-7-74",
+          "title": "제74화 『이도라 미상가』",
+          "orderInChapter": 82,
+          "globalOrder": 574,
+          "file": "ch7/082.html"
+        },
+        {
+          "id": "ep-7-75",
+          "title": "제75화 『I know』",
+          "orderInChapter": 83,
+          "globalOrder": 575,
+          "file": "ch7/083.html"
+        },
+        {
+          "id": "ep-7-76",
+          "title": "제76화 『제도에서 만나다』",
+          "orderInChapter": 84,
+          "globalOrder": 576,
+          "file": "ch7/084.html"
+        },
+        {
+          "id": "ep-7-77",
+          "title": "제77화 『운명의 장난』",
+          "orderInChapter": 85,
+          "globalOrder": 577,
+          "file": "ch7/085.html"
+        },
+        {
+          "id": "ep-7-78",
+          "title": "제78화 『일촉즉발의 재회』",
+          "orderInChapter": 86,
+          "globalOrder": 578,
+          "file": "ch7/086.html"
+        },
+        {
+          "id": "ep-7-79",
+          "title": "제79화 『진홍색의 대소』",
+          "orderInChapter": 87,
+          "globalOrder": 579,
+          "file": "ch7/087.html"
+        },
+        {
+          "id": "ep-7-80",
+          "title": "제80화 『아이리스와 가시 왕』",
+          "orderInChapter": 88,
+          "globalOrder": 580,
+          "file": "ch7/088.html"
+        },
+        {
+          "id": "ep-7-81",
+          "title": "제81화 『여걸과 광대』",
+          "orderInChapter": 89,
+          "globalOrder": 581,
+          "file": "ch7/089.html"
+        },
+        {
+          "id": "ep-7-82",
+          "title": "제82화 『반란 측의 속셈』",
+          "orderInChapter": 90,
+          "globalOrder": 582,
+          "file": "ch7/090.html"
+        },
+        {
+          "id": "ep-7-83",
+          "title": "제83화 『전란과 전장』",
+          "orderInChapter": 91,
+          "globalOrder": 583,
+          "file": "ch7/091.html"
+        },
+        {
+          "id": "ep-7-84",
+          "title": "제84화 『다실』",
+          "orderInChapter": 92,
+          "globalOrder": 584,
+          "file": "ch7/092.html"
+        },
+        {
+          "id": "ep-7-85",
+          "title": "제85화 『유진』",
+          "orderInChapter": 93,
+          "globalOrder": 585,
+          "file": "ch7/093.html"
+        },
+        {
+          "id": "ep-7-86",
+          "title": "제86화 『다섯 개의 정점』",
+          "orderInChapter": 94,
+          "globalOrder": 586,
+          "file": "ch7/094.html"
+        },
+        {
+          "id": "ep-7-87",
+          "title": "제87화 『정점 결전』",
+          "orderInChapter": 95,
+          "globalOrder": 587,
+          "file": "ch7/095.html"
+        },
+        {
+          "id": "ep-7-88",
+          "title": "제88화 『바람 구멍』",
+          "orderInChapter": 96,
+          "globalOrder": 588,
+          "file": "ch7/096.html"
+        },
+        {
+          "id": "ep-7-89",
+          "title": "제89화 『카후마 이룰쿠스』",
+          "orderInChapter": 97,
+          "globalOrder": 589,
+          "file": "ch7/097.html"
+        },
+        {
+          "id": "ep-7-90",
+          "title": "제90화 『지옥의 요람』",
+          "orderInChapter": 98,
+          "globalOrder": 590,
+          "file": "ch7/098.html"
+        },
+        {
+          "id": "ep-7-91",
+          "title": "제91화 『전장을 달리다』",
+          "orderInChapter": 99,
+          "globalOrder": 591,
+          "file": "ch7/099.html"
+        },
+        {
+          "id": "ep-7-92",
+          "title": "제92화 『인연의 재점화』",
+          "orderInChapter": 100,
+          "globalOrder": 592,
+          "file": "ch7/100.html"
+        },
+        {
+          "id": "ep-7-93",
+          "title": "제93화 『돌덩이 군세』",
+          "orderInChapter": 101,
+          "globalOrder": 593,
+          "file": "ch7/101.html"
+        },
+        {
+          "id": "ep-7-94",
+          "title": "제94화 『누구를 위한 결심』",
+          "orderInChapter": 102,
+          "globalOrder": 594,
+          "file": "ch7/102.html"
+        },
+        {
+          "id": "ep-7-95",
+          "title": "제95화 『정점 초가』",
+          "orderInChapter": 103,
+          "globalOrder": 595,
+          "file": "ch7/103.html"
+        },
+        {
+          "id": "ep-7-96",
+          "title": "제96화 『깊은 사랑으로 그리다』",
+          "orderInChapter": 104,
+          "globalOrder": 596,
+          "file": "ch7/104.html"
+        },
+        {
+          "id": "ep-7-97",
+          "title": "제97화 『서쪽 저편으로부터 오다』",
+          "orderInChapter": 105,
+          "globalOrder": 597,
+          "file": "ch7/105.html"
+        },
+        {
+          "id": "ep-7-98",
+          "title": "제98화 『플레이아데스 전단』",
+          "orderInChapter": 106,
+          "globalOrder": 598,
+          "file": "ch7/106.html"
+        },
+        {
+          "id": "ep-7-99",
+          "title": "제99화 『하늘을 다스리는 자』",
+          "orderInChapter": 107,
+          "globalOrder": 599,
+          "file": "ch7/107.html"
+        },
+        {
+          "id": "ep-7-100",
+          "title": "제100화 『정점 만화』",
+          "orderInChapter": 108,
+          "globalOrder": 600,
+          "file": "ch7/108.html"
+        },
+        {
+          "id": "ep-7-101",
+          "title": "제101화 『사랑은 불꽃』",
+          "orderInChapter": 109,
+          "globalOrder": 601,
+          "file": "ch7/109.html"
+        },
+        {
+          "id": "ep-7-102",
+          "title": "제102화 『각오의 벽』",
+          "orderInChapter": 110,
+          "globalOrder": 602,
+          "file": "ch7/110.html"
+        },
+        {
+          "id": "ep-7-103",
+          "title": "제103화 『별의 초읽기』",
+          "orderInChapter": 111,
+          "globalOrder": 603,
+          "file": "ch7/111.html"
+        },
+        {
+          "id": "ep-7-104",
+          "title": "제104화 『정점 난마 (전편)』",
+          "orderInChapter": 112,
+          "globalOrder": 604,
+          "file": "ch7/112.html"
+        },
+        {
+          "id": "ep-7-105",
+          "title": "제105화 『정점 난마 (중편)』",
+          "orderInChapter": 113,
+          "globalOrder": 605,
+          "file": "ch7/113.html"
+        },
+        {
+          "id": "ep-7-106",
+          "title": "제106화 『정점 난마 (후편)』",
+          "orderInChapter": 114,
+          "globalOrder": 606,
+          "file": "ch7/114.html"
+        },
+        {
+          "id": "ep-7-107",
+          "title": "제107화 『치샤 골드』",
+          "orderInChapter": 115,
+          "globalOrder": 607,
+          "file": "ch7/115.html"
+        },
+        {
+          "id": "ep-7-108",
+          "title": "제108화 『닥쳐올 대재앙』",
+          "orderInChapter": 116,
+          "globalOrder": 608,
+          "file": "ch7/116.html"
+        },
+        {
+          "id": "ep-7-109",
+          "title": "제109화 『제국의 검랑』",
+          "orderInChapter": 117,
+          "globalOrder": 609,
+          "file": "ch7/117.html"
+        },
+        {
+          "id": "ep-7-110",
+          "title": "제110화 『축복』",
+          "orderInChapter": 118,
+          "globalOrder": 610,
+          "file": "ch7/118.html"
+        },
+        {
+          "id": "ep-7-ex3",
+          "title": "리제로 EX 『제로부터 미마가우 이세계 생활 II』",
+          "orderInChapter": 119,
+          "globalOrder": 611,
+          "file": "ch7/119.html"
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-8",
+      "chapterTitle": "제8장 『빈센트・볼라키아』 에피소드 목록",
+      "folder": "ch8",
+      "episodes": [
+        {
+          "id": "ep-8-1",
+          "title": "제1화 『승리 조건 변경』",
+          "orderInChapter": 1,
+          "globalOrder": 612,
+          "file": "ch8/001.html"
+        },
+        {
+          "id": "ep-8-2",
+          "title": "제2화 『원한』",
+          "orderInChapter": 2,
+          "globalOrder": 613,
+          "file": "ch8/002.html"
+        },
+        {
+          "id": "ep-8-3",
+          "title": "제3화 『세 가지 이유』",
+          "orderInChapter": 3,
+          "globalOrder": 614,
+          "file": "ch8/003.html"
+        },
+        {
+          "id": "ep-8-4",
+          "title": "제4화 『전사의 본능』",
+          "orderInChapter": 4,
+          "globalOrder": 615,
+          "file": "ch8/004.html"
+        },
+        {
+          "id": "ep-8-5",
+          "title": "제5화 『용서』",
+          "orderInChapter": 5,
+          "globalOrder": 616,
+          "file": "ch8/005.html"
+        },
+        {
+          "id": "ep-8-6",
+          "title": "제6화 『용서는 구하지 않아』",
+          "orderInChapter": 6,
+          "globalOrder": 617,
+          "file": "ch8/006.html"
+        },
+        {
+          "id": "ep-8-7",
+          "title": "제7화 『토드 팡』",
+          "orderInChapter": 7,
+          "globalOrder": 618,
+          "file": "ch8/007.html"
+        },
+        {
+          "id": "ep-8-8",
+          "title": "제8화 『미래의 전망』",
+          "orderInChapter": 8,
+          "globalOrder": 619,
+          "file": "ch8/008.html"
+        },
+        {
+          "id": "ep-8-9",
+          "title": "제9화 『사랑하기로 결심하고』",
+          "orderInChapter": 9,
+          "globalOrder": 620,
+          "file": "ch8/009.html"
+        },
+        {
+          "id": "ep-8-10",
+          "title": "제10화 『누구도 혼자일 수는 없다』",
+          "orderInChapter": 10,
+          "globalOrder": 621,
+          "file": "ch8/010.html"
+        },
+        {
+          "id": "ep-8-11",
+          "title": "제11화 『시끄러워』",
+          "orderInChapter": 11,
+          "globalOrder": 622,
+          "file": "ch8/011.html"
+        },
+        {
+          "id": "ep-8-12",
+          "title": "제12화 『나츠키 스바루와 빈센트 아베르쿠스』",
+          "orderInChapter": 12,
+          "globalOrder": 623,
+          "file": "ch8/012.html"
+        },
+        {
+          "id": "ep-8-13",
+          "title": "제13화 『각자의 상처』",
+          "orderInChapter": 13,
+          "globalOrder": 624,
+          "file": "ch8/013.html"
+        },
+        {
+          "id": "ep-8-14",
+          "title": "제14화 『왕국과 제국』",
+          "orderInChapter": 14,
+          "globalOrder": 625,
+          "file": "ch8/014.html"
+        },
+        {
+          "id": "ep-8-15",
+          "title": "제15화 『예찬』",
+          "orderInChapter": 15,
+          "globalOrder": 626,
+          "file": "ch8/015.html"
+        },
+        {
+          "id": "ep-8-16",
+          "title": "제16화 『시체인 재해』",
+          "orderInChapter": 16,
+          "globalOrder": 627,
+          "file": "ch8/016.html"
+        },
+        {
+          "id": "ep-8-17",
+          "title": "제17화 『마법적 접근』",
+          "orderInChapter": 17,
+          "globalOrder": 628,
+          "file": "ch8/017.html"
+        },
+        {
+          "id": "ep-8-18",
+          "title": "제18화 『재회도 잠시』",
+          "orderInChapter": 18,
+          "globalOrder": 629,
+          "file": "ch8/018.html"
+        },
+        {
+          "id": "ep-8-19",
+          "title": "제19화 『바르가 크롬웰의 책략』",
+          "orderInChapter": 19,
+          "globalOrder": 630,
+          "file": "ch8/019.html"
+        },
+        {
+          "id": "ep-8-20",
+          "title": "제20화 『두 개의 빛』",
+          "orderInChapter": 20,
+          "globalOrder": 631,
+          "file": "ch8/020.html"
+        },
+        {
+          "id": "ep-8-21",
+          "title": "제21화 『피할 수 없는 숙명』",
+          "orderInChapter": 21,
+          "globalOrder": 632,
+          "file": "ch8/021.html"
+        },
+        {
+          "id": "ep-8-22",
+          "title": "제22화 『믿고 싶다. 용서하지 않는다』",
+          "orderInChapter": 22,
+          "globalOrder": 633,
+          "file": "ch8/022.html"
+        },
+        {
+          "id": "ep-8-23",
+          "title": "제23화 『루이』",
+          "orderInChapter": 23,
+          "globalOrder": 634,
+          "file": "ch8/023.html"
+        },
+        {
+          "id": "ep-8-24",
+          "title": "제24화 『빛의 걷는 법』",
+          "orderInChapter": 24,
+          "globalOrder": 635,
+          "file": "ch8/024.html"
+        },
+        {
+          "id": "ep-8-25",
+          "title": "제25화 『죽어가는 자의 소원』",
+          "orderInChapter": 25,
+          "globalOrder": 636,
+          "file": "ch8/025.html"
+        },
+        {
+          "id": "ep-8-26",
+          "title": "제26화 『독희』",
+          "orderInChapter": 26,
+          "globalOrder": 637,
+          "file": "ch8/026.html"
+        },
+        {
+          "id": "ep-8-27",
+          "title": "제27화 『베르슈테츠 폰다르폰』",
+          "orderInChapter": 27,
+          "globalOrder": 638,
+          "file": "ch8/027.html"
+        },
+        {
+          "id": "ep-8-28",
+          "title": "제28화 『제국의 남매』",
+          "orderInChapter": 28,
+          "globalOrder": 639,
+          "file": "ch8/028.html"
+        },
+        {
+          "id": "ep-8-29",
+          "title": "제29화 『사랑하고 싶지 않았어』",
+          "orderInChapter": 29,
+          "globalOrder": 640,
+          "file": "ch8/029.html"
+        },
+        {
+          "id": "ep-8-30",
+          "title": "제30화 『흉보』",
+          "orderInChapter": 30,
+          "globalOrder": 641,
+          "file": "ch8/030.html"
+        },
+        {
+          "id": "ep-8-31",
+          "title": "제31화 『돌덩이』",
+          "orderInChapter": 31,
+          "globalOrder": 642,
+          "file": "ch8/031.html"
+        },
+        {
+          "id": "ep-8-32",
+          "title": "제32화 『선발 멤버』",
+          "orderInChapter": 32,
+          "globalOrder": 643,
+          "file": "ch8/032.html"
+        },
+        {
+          "id": "ep-8-33",
+          "title": "제33화 『사랑을 심판하다』",
+          "orderInChapter": 33,
+          "globalOrder": 644,
+          "file": "ch8/033.html"
+        },
+        {
+          "id": "ep-8-34",
+          "title": "제34화 『변명 안 하면 용서 안 해』",
+          "orderInChapter": 34,
+          "globalOrder": 645,
+          "file": "ch8/034.html"
+        },
+        {
+          "id": "ep-8-35",
+          "title": "제35화 『목숨 건 일』",
+          "orderInChapter": 35,
+          "globalOrder": 646,
+          "file": "ch8/035.html"
+        },
+        {
+          "id": "ep-8-36",
+          "title": "제36화 『시체 도시 루프가나』",
+          "orderInChapter": 36,
+          "globalOrder": 647,
+          "file": "ch8/036.html"
+        },
+        {
+          "id": "ep-8-37",
+          "title": "제37화 『복선의 시간』",
+          "orderInChapter": 37,
+          "globalOrder": 648,
+          "file": "ch8/037.html"
+        },
+        {
+          "id": "ep-8-38",
+          "title": "제38화 『로우안 제그문트』",
+          "orderInChapter": 38,
+          "globalOrder": 649,
+          "file": "ch8/038.html"
+        },
+        {
+          "id": "ep-8-39",
+          "title": "제39화 『웃는 도외』",
+          "orderInChapter": 39,
+          "globalOrder": 650,
+          "file": "ch8/039.html"
+        },
+        {
+          "id": "ep-8-40",
+          "title": "제40화 『대수롭지 않은 위협』",
+          "orderInChapter": 40,
+          "globalOrder": 651,
+          "file": "ch8/040.html"
+        },
+        {
+          "id": "ep-8-41",
+          "title": "제41화 『지옥의 소재』",
+          "orderInChapter": 41,
+          "globalOrder": 652,
+          "file": "ch8/041.html"
+        },
+        {
+          "id": "ep-8-42",
+          "title": "제42화 『위대한 노예』",
+          "orderInChapter": 42,
+          "globalOrder": 653,
+          "file": "ch8/042.html"
+        },
+        {
+          "id": "ep-8-43",
+          "title": "제43화 『각자의 본회』",
+          "orderInChapter": 43,
+          "globalOrder": 654,
+          "file": "ch8/043.html"
+        },
+        {
+          "id": "ep-8-m1",
+          "title": "막간 『우비르크』",
+          "orderInChapter": 44,
+          "globalOrder": 655,
+          "file": "ch8/044.html"
+        },
+        {
+          "id": "ep-8-44",
+          "title": "제44화 『신뢰에 답하는 법』",
+          "orderInChapter": 45,
+          "globalOrder": 656,
+          "file": "ch8/045.html"
+        },
+        {
+          "id": "ep-8-45",
+          "title": "제45화 『별을 떨어뜨리는 법』",
+          "orderInChapter": 46,
+          "globalOrder": 657,
+          "file": "ch8/046.html"
+        },
+        {
+          "id": "ep-8-46",
+          "title": "제46화 『바람의 맛』",
+          "orderInChapter": 47,
+          "globalOrder": 658,
+          "file": "ch8/047.html"
+        },
+        {
+          "id": "ep-8-47",
+          "title": "제47화 『탄자』",
+          "orderInChapter": 48,
+          "globalOrder": 659,
+          "file": "ch8/048.html"
+        },
+        {
+          "id": "ep-8-48",
+          "title": "제48화 『가시의 저주』",
+          "orderInChapter": 49,
+          "globalOrder": 660,
+          "file": "ch8/049.html"
+        },
+        {
+          "id": "ep-8-49",
+          "title": "제49화 『가시의 왕』",
+          "orderInChapter": 50,
+          "globalOrder": 661,
+          "file": "ch8/050.html"
+        },
+        {
+          "id": "ep-8-50",
+          "title": "제50화 『유가르드 볼라키아』",
+          "orderInChapter": 51,
+          "globalOrder": 662,
+          "file": "ch8/051.html"
+        },
+        {
+          "id": "ep-8-51",
+          "title": "제51화 『텐노잔』",
+          "orderInChapter": 52,
+          "globalOrder": 663,
+          "file": "ch8/052.html"
+        },
+        {
+          "id": "ep-8-52",
+          "title": "제52화 『미디엄 오코넬』",
+          "orderInChapter": 53,
+          "globalOrder": 664,
+          "file": "ch8/053.html"
+        },
+        {
+          "id": "ep-8-53",
+          "title": "제53화 『마탄의 사수』",
+          "orderInChapter": 54,
+          "globalOrder": 665,
+          "file": "ch8/054.html"
+        },
+        {
+          "id": "ep-8-54",
+          "title": "제54화 『소마토우』",
+          "orderInChapter": 55,
+          "globalOrder": 666,
+          "file": "ch8/055.html"
+        },
+        {
+          "id": "ep-8-55",
+          "title": "제55화 『마데린 에샤르트』",
+          "orderInChapter": 56,
+          "globalOrder": 667,
+          "file": "ch8/056.html"
+        },
+        {
+          "id": "ep-8-56",
+          "title": "제56화 『아라키아』",
+          "orderInChapter": 57,
+          "globalOrder": 668,
+          "file": "ch8/057.html"
+        },
+        {
+          "id": "ep-8-57",
+          "title": "제57화 『세실루스 제그문트』",
+          "orderInChapter": 58,
+          "globalOrder": 669,
+          "file": "ch8/058.html"
+        },
+        {
+          "id": "ep-8-58",
+          "title": "제58화 『존재의 증명』",
+          "orderInChapter": 59,
+          "globalOrder": 670,
+          "file": "ch8/059.html"
+        },
+        {
+          "id": "ep-8-ex1",
+          "title": "리제로 EX 『아이리스와 가시의 왕』 (전편)",
+          "orderInChapter": 60,
+          "globalOrder": 671,
+          "file": "ch8/060.html"
+        },
+        {
+          "id": "ep-8-ex2",
+          "title": "리제로 EX 『아이리스와 가시의 왕』 (후편)",
+          "orderInChapter": 61,
+          "globalOrder": 672,
+          "file": "ch8/061.html"
+        },
+        {
+          "id": "ep-8-59",
+          "title": "제59화 『스핑크스』",
+          "orderInChapter": 62,
+          "globalOrder": 673,
+          "file": "ch8/062.html"
+        },
+        {
+          "id": "ep-8-60",
+          "title": "제60화 『마녀』",
+          "orderInChapter": 63,
+          "globalOrder": 674,
+          "file": "ch8/063.html"
+        },
+        {
+          "id": "ep-8-61",
+          "title": "제61화 『팔라디오 마네스크』",
+          "orderInChapter": 64,
+          "globalOrder": 675,
+          "file": "ch8/064.html"
+        },
+        {
+          "id": "ep-8-62",
+          "title": "제62화 『사랑의 힘』",
+          "orderInChapter": 65,
+          "globalOrder": 676,
+          "file": "ch8/065.html"
+        },
+        {
+          "id": "ep-8-63",
+          "title": "제63화 『입술에 기적을 머금고』",
+          "orderInChapter": 66,
+          "globalOrder": 677,
+          "file": "ch8/066.html"
+        },
+        {
+          "id": "ep-8-64",
+          "title": "제64화 『제국의 부자』",
+          "orderInChapter": 67,
+          "globalOrder": 678,
+          "file": "ch8/067.html"
+        },
+        {
+          "id": "ep-8-65",
+          "title": "제65화 『별이 내리는 제도』",
+          "orderInChapter": 68,
+          "globalOrder": 679,
+          "file": "ch8/068.html"
+        },
+        {
+          "id": "ep-8-66",
+          "title": "제66화 『마정포』",
+          "orderInChapter": 69,
+          "globalOrder": 680,
+          "file": "ch8/069.html"
+        },
+        {
+          "id": "ep-8-67",
+          "title": "제67화 『가진 패』",
+          "orderInChapter": 70,
+          "globalOrder": 681,
+          "file": "ch8/070.html"
+        },
+        {
+          "id": "ep-8-68",
+          "title": "제68화 『반한 남자』",
+          "orderInChapter": 71,
+          "globalOrder": 682,
+          "file": "ch8/071.html"
+        },
+        {
+          "id": "ep-8-69",
+          "title": "제69화 『용서하겠어』",
+          "orderInChapter": 72,
+          "globalOrder": 683,
+          "file": "ch8/072.html"
+        },
+        {
+          "id": "ep-8-70",
+          "title": "제70화 『마지막 책략』",
+          "orderInChapter": 73,
+          "globalOrder": 684,
+          "file": "ch8/073.html"
+        },
+        {
+          "id": "ep-8-71",
+          "title": "제71화 『영웅 환상』",
+          "orderInChapter": 74,
+          "globalOrder": 685,
+          "file": "ch8/074.html"
+        },
+        {
+          "id": "ep-8-72",
+          "title": "제72화 『태양희』",
+          "orderInChapter": 75,
+          "globalOrder": 686,
+          "file": "ch8/075.html"
+        },
+        {
+          "id": "ep-8-73",
+          "title": "제73화 『숙적』",
+          "orderInChapter": 76,
+          "globalOrder": 687,
+          "file": "ch8/076.html"
+        },
+        {
+          "id": "ep-8-74",
+          "title": "제74화 『사랑』",
+          "orderInChapter": 77,
+          "globalOrder": 688,
+          "file": "ch8/077.html"
+        },
+        {
+          "id": "ep-8-finale",
+          "title": "종막 『프리실라 바리에르』",
+          "orderInChapter": 78,
+          "globalOrder": 689,
+          "file": "ch8/078.html"
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-9",
+      "chapterTitle": "제9장 『이름 없는 별의 빛』 에피소드 목록",
+      "folder": "ch9",
+      "episodes": [
+        {
+          "id": "ep-9-1",
+          "title": "제1화 『기도여 구름처럼』",
+          "orderInChapter": 1,
+          "globalOrder": 690,
+          "file": "ch9/001.html"
+        },
+        {
+          "id": "ep-9-2",
+          "title": "제2화 『악역은 꾸미지 않아』",
+          "orderInChapter": 2,
+          "globalOrder": 691,
+          "file": "ch9/002.html"
+        },
+        {
+          "id": "ep-9-3",
+          "title": "제3화 『각자가 그대를 애도하다』",
+          "orderInChapter": 3,
+          "globalOrder": 692,
+          "file": "ch9/003.html"
+        },
+        {
+          "id": "ep-9-4",
+          "title": "제4화 『오땅코나스』",
+          "orderInChapter": 4,
+          "globalOrder": 693,
+          "file": "ch9/004.html"
+        },
+        {
+          "id": "ep-9-5",
+          "title": "제5화 『구백삼십일 발』",
+          "orderInChapter": 5,
+          "globalOrder": 694,
+          "file": "ch9/005.html"
+        },
+        {
+          "id": "ep-9-6",
+          "title": "제6화 『출발』",
+          "orderInChapter": 6,
+          "globalOrder": 695,
+          "file": "ch9/006.html"
+        },
+        {
+          "id": "ep-9-m1",
+          "title": "막간 『카츄아 오렐리』",
+          "orderInChapter": 7,
+          "globalOrder": 696,
+          "file": "ch9/007.html"
+        },
+        {
+          "id": "ep-9-7",
+          "title": "제7화 『모래바람의 재회』",
+          "orderInChapter": 8,
+          "globalOrder": 697,
+          "file": "ch9/008.html"
+        },
+        {
+          "id": "ep-9-8",
+          "title": "제8화 『후회하는 법』",
+          "orderInChapter": 9,
+          "globalOrder": 698,
+          "file": "ch9/009.html"
+        },
+        {
+          "id": "ep-9-9",
+          "title": "제9화 『고효율 마도식 유도문』",
+          "orderInChapter": 10,
+          "globalOrder": 699,
+          "file": "ch9/010.html"
+        },
+        {
+          "id": "ep-9-10",
+          "title": "제10화 『리미트는 3일』",
+          "orderInChapter": 11,
+          "globalOrder": 700,
+          "file": "ch9/011.html"
+        },
+        {
+          "id": "ep-9-11",
+          "title": "제11화 『너는 이미 어디에도 없어』",
+          "orderInChapter": 12,
+          "globalOrder": 701,
+          "file": "ch9/012.html"
+        },
+        {
+          "id": "ep-9-12",
+          "title": "제12화 『나유타 너머의 별빛』",
+          "orderInChapter": 13,
+          "globalOrder": 702,
+          "file": "ch9/013.html"
+        },
+        {
+          "id": "ep-9-13",
+          "title": "제13화 『가장 사랑받은 것과 가장 사랑받지 못한 것』",
+          "orderInChapter": 14,
+          "globalOrder": 703,
+          "file": "ch9/014.html"
+        },
+        {
+          "id": "ep-9-14",
+          "title": "제14화 『최강』",
+          "orderInChapter": 15,
+          "globalOrder": 704,
+          "file": "ch9/015.html"
+        },
+        {
+          "id": "ep-9-15",
+          "title": "제15화 『패배자』",
+          "orderInChapter": 16,
+          "globalOrder": 705,
+          "file": "ch9/016.html"
+        },
+        {
+          "id": "ep-9-16",
+          "title": "제16화 『공범자』",
+          "orderInChapter": 17,
+          "globalOrder": 706,
+          "file": "ch9/017.html"
+        },
+        {
+          "id": "ep-9-17",
+          "title": "제17화 『제발, 용서하지 말아줘』",
+          "orderInChapter": 18,
+          "globalOrder": 707,
+          "file": "ch9/018.html"
+        },
+        {
+          "id": "ep-9-18",
+          "title": "제18화 『백배 골칫거리』",
+          "orderInChapter": 19,
+          "globalOrder": 708,
+          "file": "ch9/019.html"
+        },
+        {
+          "id": "ep-9-19",
+          "title": "제19화 『뒤에서의 다툼』",
+          "orderInChapter": 20,
+          "globalOrder": 709,
+          "file": "ch9/020.html"
+        },
+        {
+          "id": "ep-9-20",
+          "title": "제20화 『목숨의 사용법』",
+          "orderInChapter": 21,
+          "globalOrder": 710,
+          "file": "ch9/021.html"
+        },
+        {
+          "id": "ep-9-21",
+          "title": "제21화 『바르가 크롬웰』",
+          "orderInChapter": 22,
+          "globalOrder": 711,
+          "file": "ch9/022.html"
+        },
+        {
+          "id": "ep-9-22",
+          "title": "제22화 『싸움을 끝내는 법』",
+          "orderInChapter": 23,
+          "globalOrder": 712,
+          "file": "ch9/023.html"
+        },
+        {
+          "id": "ep-9-23",
+          "title": "제23화 『배우는 다 모였다』",
+          "orderInChapter": 24,
+          "globalOrder": 713,
+          "file": "ch9/024.html"
+        },
+        {
+          "id": "ep-9-ex",
+          "title": "리제로 EX 『제로부터 아자무쿠 이세계 생활』",
+          "orderInChapter": 25,
+          "globalOrder": 714,
+          "file": "ch9/025.html"
+        },
+        {
+          "id": "ep-9-24",
+          "title": "제24화 『인류의 천적』",
+          "orderInChapter": 26,
+          "globalOrder": 715,
+          "file": "ch9/026.html"
+        },
+        {
+          "id": "ep-9-25",
+          "title": "제25화 『에밀리아는 격노했다』",
+          "orderInChapter": 27,
+          "globalOrder": 716,
+          "file": "ch9/027.html"
+        },
+        {
+          "id": "ep-9-26",
+          "title": "제26화 『검귀 VS 홍앵』",
+          "orderInChapter": 28,
+          "globalOrder": 717,
+          "file": "ch9/028.html"
+        },
+        {
+          "id": "ep-9-27",
+          "title": "제27화 『어린아이의 말』",
+          "orderInChapter": 29,
+          "globalOrder": 718,
+          "file": "ch9/029.html"
+        },
+        {
+          "id": "ep-9-28",
+          "title": "제28화 『전설의 한 구절』",
+          "orderInChapter": 30,
+          "globalOrder": 719,
+          "file": "ch9/030.html"
+        },
+        {
+          "id": "ep-9-29",
+          "title": "제29화 『말석』",
+          "orderInChapter": 31,
+          "globalOrder": 720,
+          "file": "ch9/031.html"
+        },
+        {
+          "id": "ep-9-30",
+          "title": "제30화 『플랜 B』",
+          "orderInChapter": 32,
+          "globalOrder": 721,
+          "file": "ch9/032.html"
+        },
+        {
+          "id": "ep-9-31",
+          "title": "제31화 『십 할의 일』",
+          "orderInChapter": 33,
+          "globalOrder": 722,
+          "file": "ch9/033.html"
+        },
+        {
+          "id": "ep-9-32",
+          "title": "제32화 『크린드라는 남자』",
+          "orderInChapter": 34,
+          "globalOrder": 723,
+          "file": "ch9/034.html"
+        },
+        {
+          "id": "ep-9-33",
+          "title": "제33화 『페트라 레이테라는 소녀』",
+          "orderInChapter": 35,
+          "globalOrder": 724,
+          "file": "ch9/035.html"
+        },
+        {
+          "id": "ep-9-34",
+          "title": "제34화 『인력』",
+          "orderInChapter": 36,
+          "globalOrder": 725,
+          "file": "ch9/036.html"
+        },
+        {
+          "id": "ep-9-35",
+          "title": "제35화 『각성의 별』",
+          "orderInChapter": 37,
+          "globalOrder": 726,
+          "file": "ch9/037.html"
+        },
+        {
+          "id": "ep-9-36",
+          "title": "제36화 『명제』",
+          "orderInChapter": 38,
+          "globalOrder": 727,
+          "file": "ch9/038.html"
+        },
+        {
+          "id": "ep-9-37",
+          "title": "제37화 『마인드셋』",
+          "orderInChapter": 39,
+          "globalOrder": 728,
+          "file": "ch9/039.html"
+        },
+        {
+          "id": "ep-9-38",
+          "title": "제38화 『태양에 그을려』",
+          "orderInChapter": 40,
+          "globalOrder": 729,
+          "file": "ch9/040.html"
+        },
+        {
+          "id": "ep-9-39",
+          "title": "제39화 『마지막 일선』",
+          "orderInChapter": 41,
+          "globalOrder": 730,
+          "file": "ch9/041.html"
+        },
+        {
+          "id": "ep-9-40",
+          "title": "제40화 『플래시 렘네이드』",
+          "orderInChapter": 42,
+          "globalOrder": 731,
+          "file": "ch9/042.html"
+        },
+        {
+          "id": "ep-9-41",
+          "title": "제41화 『찬탈자에게 고하라』",
+          "orderInChapter": 43,
+          "globalOrder": 732,
+          "file": "ch9/043.html"
+        },
+        {
+          "id": "ep-9-42",
+          "title": "제42화 『마음을 부순다는 것』",
+          "orderInChapter": 44,
+          "globalOrder": 733,
+          "file": "ch9/044.html"
+        },
+        {
+          "id": "ep-9-43",
+          "title": "제43화 『진명』",
+          "orderInChapter": 45,
+          "globalOrder": 734,
+          "file": "ch9/045.html"
+        },
+        {
+          "id": "ep-9-44",
+          "title": "제44화 『수면 아래 밀약』",
+          "orderInChapter": 46,
+          "globalOrder": 735,
+          "file": "ch9/046.html"
+        },
+        {
+          "id": "ep-9-45",
+          "title": "제45화 『충돌하는 이외자들』",
+          "orderInChapter": 47,
+          "globalOrder": 736,
+          "file": "ch9/047.html"
+        },
+        {
+          "id": "ep-9-46",
+          "title": "제46화 『우울의 마녀』",
+          "orderInChapter": 48,
+          "globalOrder": 737,
+          "file": "ch9/048.html"
+        },
+        {
+          "id": "ep-9-47",
+          "title": "제47화 『\"목소리\"』",
+          "orderInChapter": 49,
+          "globalOrder": 738,
+          "file": "ch9/049.html"
+        },
+        {
+          "id": "ep-9-48",
+          "title": "제48화 『정점 생물』",
+          "orderInChapter": 50,
+          "globalOrder": 739,
+          "file": "ch9/050.html"
+        },
+        {
+          "id": "ep-9-49",
+          "title": "제49화 『마법사』",
+          "orderInChapter": 51,
+          "globalOrder": 740,
+          "file": "ch9/051.html"
+        },
+        {
+          "id": "ep-9-50",
+          "title": "제50화 『빙상 결전』",
+          "orderInChapter": 52,
+          "globalOrder": 741,
+          "file": "ch9/052.html"
+        },
+        {
+          "id": "ep-9-51",
+          "title": "제51화 『야에 텐젠』",
+          "orderInChapter": 53,
+          "globalOrder": 742,
+          "file": "ch9/053.html"
+        },
+        {
+          "id": "ep-9-52",
+          "title": "제52화 『알데바란 I』",
+          "orderInChapter": 54,
+          "globalOrder": 743,
+          "file": "ch9/054.html"
+        },
+        {
+          "id": "ep-9-53",
+          "title": "제53화 『알데바란 II』",
+          "orderInChapter": 55,
+          "globalOrder": 744,
+          "file": "ch9/055.html"
+        },
+        {
+          "id": "ep-9-54",
+          "title": "제54화 『『마인』 VS 『마녀』』",
+          "orderInChapter": 56,
+          "globalOrder": 745,
+          "file": "ch9/056.html"
+        },
+        {
+          "id": "ep-9-55",
+          "title": "제55화 『영역의 가해자』",
+          "orderInChapter": 57,
+          "globalOrder": 746,
+          "file": "ch9/057.html"
+        },
+        {
+          "id": "ep-9-56",
+          "title": "제56화 『페트라 레이테』",
+          "orderInChapter": 58,
+          "globalOrder": 747,
+          "file": "ch9/058.html"
+        },
+        {
+          "id": "ep-9-57",
+          "title": "제57화 『마지막 봉공』",
+          "orderInChapter": 59,
+          "globalOrder": 748,
+          "file": "ch9/059.html"
+        },
+        {
+          "id": "ep-9-58",
+          "title": "제58화 『쇠사슬 소리』",
+          "orderInChapter": 60,
+          "globalOrder": 749,
+          "file": "ch9/060.html"
+        },
+        {
+          "id": "ep-9-59",
+          "title": "제59화 『――가 아니야』",
+          "orderInChapter": 61,
+          "globalOrder": 750,
+          "file": "ch9/061.html"
+        },
+        {
+          "id": "ep-9-m2",
+          "title": "막간 『에ール』",
+          "orderInChapter": 62,
+          "globalOrder": 751,
+          "file": "ch9/062.html"
+        },
+        {
+          "id": "ep-9-finale",
+          "title": "종막 『Reweave』",
+          "orderInChapter": 63,
+          "globalOrder": 752,
+          "file": "ch9/063.html"
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-10",
+      "chapterTitle": "제10장 『사자왕의 나라』 에피소드 목록",
+      "folder": "ch10",
+      "episodes": [
+        {
+          "id": "ep-10-1",
+          "title": "제1화 『친구』",
+          "orderInChapter": 1,
+          "globalOrder": 753,
+          "file": "ch10/001.html"
+        },
+        {
+          "id": "ep-10-2",
+          "title": "제2화 『교회의 비적』",
+          "orderInChapter": 2,
+          "globalOrder": 754,
+          "file": "ch10/002.html"
+        },
+        {
+          "id": "ep-10-3",
+          "title": "제3화 『빛의 싹』",
+          "orderInChapter": 3,
+          "globalOrder": 755,
+          "file": "ch10/003.html"
+        },
+        {
+          "id": "ep-10-4",
+          "title": "제4화 『유어 웰컴』",
+          "orderInChapter": 4,
+          "globalOrder": 756,
+          "file": "ch10/004.html"
+        },
+        {
+          "id": "ep-10-5",
+          "title": "제5화 『샛길의 전말』",
+          "orderInChapter": 5,
+          "globalOrder": 757,
+          "file": "ch10/005.html"
+        },
+        {
+          "id": "ep-10-6",
+          "title": "제6화 『순간 온수기』",
+          "orderInChapter": 6,
+          "globalOrder": 758,
+          "file": "ch10/006.html"
+        },
+        {
+          "id": "ep-10-7",
+          "title": "제7화 『마이 프렌드』",
+          "orderInChapter": 7,
+          "globalOrder": 759,
+          "file": "ch10/007.html"
+        },
+        {
+          "id": "ep-10-m1",
+          "title": "막간 『――왜?』",
+          "orderInChapter": 8,
+          "globalOrder": 760,
+          "file": "ch10/008.html"
+        },
+        {
+          "id": "ep-10-8",
+          "title": "제8화 『선택의 결과』",
+          "orderInChapter": 9,
+          "globalOrder": 761,
+          "file": "ch10/009.html"
+        },
+        {
+          "id": "ep-10-9",
+          "title": "제9화 『울보』",
+          "orderInChapter": 10,
+          "globalOrder": 762,
+          "file": "ch10/010.html"
+        },
+        {
+          "id": "ep-10-10",
+          "title": "제10화 『신뢰의 침전』",
+          "orderInChapter": 11,
+          "globalOrder": 763,
+          "file": "ch10/011.html"
+        },
+        {
+          "id": "ep-10-11",
+          "title": "제11화 『용주가 빛나는 이유』",
+          "orderInChapter": 12,
+          "globalOrder": 764,
+          "file": "ch10/012.html"
+        },
+        {
+          "id": "ep-10-12",
+          "title": "제12화 『신음』",
+          "orderInChapter": 13,
+          "globalOrder": 765,
+          "file": "ch10/013.html"
+        },
+        {
+          "id": "ep-10-ex",
+          "title": "리제로 EX 『제로부터 바치는 이세계 생활』",
+          "orderInChapter": 14,
+          "globalOrder": 766,
+          "file": "ch10/014.html"
+        },
+        {
+          "id": "ep-10-13",
+          "title": "제13화 『피로는 더럽힐 수 없어』",
+          "orderInChapter": 15,
+          "globalOrder": 767,
+          "file": "ch10/015.html"
+        },
+        {
+          "id": "ep-10-14",
+          "title": "제14화 『역적』",
+          "orderInChapter": 16,
+          "globalOrder": 768,
+          "file": "ch10/016.html"
+        },
+        {
+          "id": "ep-10-15",
+          "title": "제15화 『지옥까지 함께』",
+          "orderInChapter": 17,
+          "globalOrder": 769,
+          "file": "ch10/017.html"
+        },
+        {
+          "id": "ep-10-16",
+          "title": "제16화 『속임수』",
+          "orderInChapter": 18,
+          "globalOrder": 770,
+          "file": "ch10/018.html"
+        },
+        {
+          "id": "ep-10-17",
+          "title": "제17화 『재가 되어라』",
+          "orderInChapter": 19,
+          "globalOrder": 771,
+          "file": "ch10/019.html"
+        },
+        {
+          "id": "ep-10-18",
+          "title": "제18화 『꿈을 꾸었다』",
+          "orderInChapter": 20,
+          "globalOrder": 772,
+          "file": "ch10/020.html"
+        },
+        {
+          "id": "ep-10-19",
+          "title": "제19화 『너무 큰 적』",
+          "orderInChapter": 21,
+          "globalOrder": 773,
+          "file": "ch10/021.html"
+        },
+        {
+          "id": "ep-10-20",
+          "title": "제20화 『양경구면』",
+          "orderInChapter": 22,
+          "globalOrder": 774,
+          "file": "ch10/022.html"
+        },
+        {
+          "id": "ep-10-21",
+          "title": "제21화 『여섯 개의 혀』",
+          "orderInChapter": 23,
+          "globalOrder": 775,
+          "file": "ch10/023.html"
+        },
+        {
+          "id": "ep-10-22",
+          "title": "제22화 『포석과 거절』",
+          "orderInChapter": 24,
+          "globalOrder": 776,
+          "file": "ch10/024.html"
+        },
+        {
+          "id": "ep-10-23",
+          "title": "제23화 『최선의 모색』",
+          "orderInChapter": 25,
+          "globalOrder": 777,
+          "file": "ch10/025.html"
+        }
+      ]
+    }
+  ]
+}

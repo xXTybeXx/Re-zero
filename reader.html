@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <title>리제로 소설 리더 - 읽기</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="manifest" href="manifest.json">
+</head>
+<body>
+    <div class="app-container">
+        <header class="app-header">
+            <button id="back-to-toc" class="icon-btn">📖 목차</button>
+            <div class="header-title" id="reader-title">읽는 중</div>
+            <div class="header-right">
+                <button id="dark-mode-toggle" class="icon-btn">🌙</button>
+                <button id="font-decrease" class="icon-btn">A-</button>
+                <button id="font-increase" class="icon-btn">A+</button>
+            </div>
+        </header>
+
+        <main>
+            <div class="reader-container">
+                <div class="reader-nav-top">
+                    <button id="prev-chapter" class="nav-btn">◀ 이전화</button>
+                    <button id="next-chapter" class="nav-btn">다음화 ▶</button>
+                </div>
+                <div id="reader-content" class="reader-content">
+                    <div class="loading">로딩 중...</div>
+                </div>
+                <div class="reader-nav-bottom">
+                    <button id="prev-chapter-bottom" class="nav-btn">◀ 이전화</button>
+                    <button id="next-chapter-bottom" class="nav-btn">다음화 ▶</button>
+                </div>
+            </div>
+        </main>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

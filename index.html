@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <title>리제로 소설 리더</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#1e1e2f">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <link rel="apple-touch-icon" href="icons/icon-192.png">
+</head>
+<body>
+    <div class="app-container">
+        <header class="app-header">
+            <div class="header-title">Re:제로 소설 리더</div>
+            <div class="header-right">
+                <button id="dark-mode-toggle" class="icon-btn" aria-label="다크모드">🌙</button>
+            </div>
+        </header>
+
+        <main id="main-content">
+            <div class="toc-header">
+                <h2>📚 모든 화</h2>
+                <p class="sub-info">총 <span id="total-chapters">0</span>화</p>
+            </div>
+            <div id="chapters-container"></div>
+        </main>
+
+        <footer class="app-footer">
+            <span id="last-read-status"></span>
+        </footer>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
