@@ -1,12 +1,12 @@
 const CACHE_NAME = 'rezero-reader-v1';
 const urlsToCache = [
-  '/rezero-reader/',
-  '/rezero-reader/index.html',
-  '/rezero-reader/reader.html',
-  '/rezero-reader/style.css',
-  '/rezero-reader/script.js',
-  '/rezero-reader/manifest.json',
-  '/rezero-reader/chapters.json'
+  '/Re-zero/',
+  '/Re-zero/index.html',
+  '/Re-zero/reader.html',
+  '/Re-zero/style.css',
+  '/Re-zero/script.js',
+  '/Re-zero/manifest.json',
+  '/Re-zero/chapters.json'
 ];
 
 self.addEventListener('install', event => {
