@@ -1,4 +1,5 @@
-const CACHE_NAME = 'rezero-reader-v1';
+const CACHE_NAME = 'rezero-reader-v2';  // 버전을 바꿔줌
+
 const urlsToCache = [
   '/Re-zero/',
   '/Re-zero/index.html',
@@ -6,7 +7,9 @@ const urlsToCache = [
   '/Re-zero/style.css',
   '/Re-zero/script.js',
   '/Re-zero/manifest.json',
-  '/Re-zero/chapters.json'
+  '/Re-zero/chapters.json',
+  '/Re-zero/icons/icon-192.png',
+  '/Re-zero/icons/icon-512.png'
 ];
 
 self.addEventListener('install', event => {
