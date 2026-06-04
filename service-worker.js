@@ -1,4 +1,4 @@
-const CACHE_NAME = 'rezero-reader-v2';  // 버전을 바꿔줌
+const CACHE_NAME = 'rezero-v3';  // 이전과 다른 버전으로
 
 const urlsToCache = [
   '/Re-zero/',
