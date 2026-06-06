@@ -2,302 +2,119 @@
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>소설/대본 HTML 변환기 (제n화 『제목』 처리)</title>
+    <title>소설 HTML 변환기 (깔끔하게, quot 없음)</title>
     <style>
-        * {
-            box-sizing: border-box;
-        }
-        body {
-            font-family: 'Segoe UI', 'Noto Sans', system-ui, sans-serif;
-            background: #eef2f5;
-            margin: 0;
-            padding: 24px;
-        }
-        .container {
-            max-width: 1400px;
-            margin: 0 auto;
-            display: flex;
-            flex-wrap: wrap;
-            gap: 24px;
-        }
-        .panel {
-            flex: 1;
-            min-width: 320px;
-            background: white;
-            border-radius: 24px;
-            box-shadow: 0 8px 20px rgba(0,0,0,0.08);
-            display: flex;
-            flex-direction: column;
-            overflow: hidden;
-        }
-        .panel-header {
-            background: #1e2a3a;
-            color: white;
-            padding: 16px 20px;
-            font-weight: bold;
-            font-size: 1.2rem;
-        }
-        textarea, .preview-box, .html-box {
-            width: 100%;
-            padding: 20px;
-            font-size: 15px;
-            line-height: 1.6;
-            border: none;
-            resize: vertical;
-            font-family: 'Courier New', 'Nanum Gothic Coding', monospace;
-            flex: 1;
-            min-height: 450px;
-        }
-        textarea {
-            background: #fef8e7;
-            border-bottom: 1px solid #ddd;
-        }
-        .preview-box {
-            background: #ffffff;
-            font-family: 'Noto Sans', 'Segoe UI', sans-serif;
-            overflow-y: auto;
-            white-space: normal;
-        }
-        .html-box {
-            background: #1e1e1e;
-            color: #d4d4d4;
-            font-family: 'Courier New', monospace;
-            white-space: pre-wrap;
-            overflow-x: auto;
-        }
-        .button-bar {
-            padding: 14px 20px;
-            background: #f0f4f8;
-            display: flex;
-            gap: 12px;
-            flex-wrap: wrap;
-            border-top: 1px solid #dce5ec;
-        }
-        button {
-            background: #2c6e9e;
-            color: white;
-            border: none;
-            padding: 8px 20px;
-            border-radius: 40px;
-            font-size: 0.9rem;
-            cursor: pointer;
-            transition: 0.2s;
-            font-weight: 600;
-        }
-        button:hover {
-            background: #1e4a6e;
-            transform: scale(1.02);
-        }
-        .copy-btn {
-            background: #2c7a4d;
-        }
-        .copy-btn:hover {
-            background: #1f5a38;
-        }
-        .example-btn {
-            background: #7f8c8d;
-        }
-        .info {
-            padding: 10px 20px;
-            background: #fff8e7;
-            border-top: 1px solid #f3d572;
-            font-size: 13px;
-            color: #7a6300;
-        }
-        .badge {
-            background: #e9ecef;
-            padding: 2px 8px;
-            border-radius: 20px;
-            font-family: monospace;
-            font-size: 12px;
-        }
+        body { font-family: 'Segoe UI', sans-serif; background: #f0f2f5; margin: 20px; }
+        .container { max-width: 1400px; margin: auto; display: flex; gap: 20px; flex-wrap: wrap; }
+        .panel { flex: 1; background: white; border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); display: flex; flex-direction: column; }
+        .panel-header { background: #1e2a3a; color: white; padding: 12px 20px; font-weight: bold; border-radius: 16px 16px 0 0; }
+        textarea, .preview, .html-code { width: 100%; padding: 16px; font-size: 14px; line-height: 1.6; border: none; resize: vertical; }
+        textarea { background: #fef9e6; font-family: monospace; min-height: 400px; }
+        .preview { background: white; font-family: 'Noto Sans', sans-serif; min-height: 400px; overflow-y: auto; }
+        .html-code { background: #f8f9fa; color: #1e1e1e; font-family: 'Courier New', monospace; white-space: pre-wrap; min-height: 200px; border-top: 1px solid #ddd; }
+        .button-bar { padding: 12px; background: #e9ecef; display: flex; gap: 10px; border-top: 1px solid #ccc; }
+        button { background: #2c6e9e; color: white; border: none; padding: 6px 16px; border-radius: 20px; cursor: pointer; }
+        button:hover { background: #1e4a6e; }
+        .copy-btn { background: #2c7a4d; }
+        .info { background: #fff8e0; padding: 8px 16px; font-size: 13px; border-top: 1px solid #f3d572; }
     </style>
 </head>
 <body>
 <div class="container">
-    <!-- 입력 패널 -->
     <div class="panel">
-        <div class="panel-header">📝 원본 텍스트 (자연어 입력)</div>
-        <textarea id="inputText" placeholder='예시:
-5 너의 이름은
+        <div class="panel-header">✏️ 원본 텍스트 입력</div>
+        <textarea id="inputText" placeholder='예:
+3 처음 보는 마법
 
-이세계에서 첫 우호적인 상대와의 교류.
+시간이 멈춘다는 것은 이런 감각일까.
 
-그런 훈훈한 대화를 거쳐...
-
-"안녕?"
-
-위와 같이 쓰면 자동으로:
-
-<h1>제5화 『너의 이름은』</h1>
-<br>
-<p>이세계에서 첫 우호적인 상대와의 교류.</p>
-<br>
-<p>그런 훈훈한 대화를 거쳐...</p>
-<br>
-<p>"안녕?"</p>
-
-※ 숫자(1~9 가능, 화수) + 공백 + 내용 → &lt;h1&gt;제n화 『내용』&lt;/h1&gt;
-빈 줄 → &lt;br&gt;
-일반 줄 → &lt;p&gt;텍스트&lt;/p&gt;'></textarea>
+"거기까지야."'></textarea>
         <div class="button-bar">
-            <button id="convertBtn">✨ HTML로 변환</button>
+            <button id="convertBtn">✨ HTML 변환</button>
             <button id="copyHtmlBtn" class="copy-btn">📋 HTML 코드 복사</button>
-            <button id="copyPreviewBtn" class="copy-btn">📋 미리보기 복사</button>
-            <button id="clearBtn" class="example-btn">🗑️ 지우기</button>
-            <button id="exampleBtn" class="example-btn">📖 예제 불러오기</button>
+            <button id="exampleBtn">📖 예제 불러오기</button>
+            <button id="clearBtn">🗑️ 지우기</button>
         </div>
-        <div class="info">
-            🎯 <strong>변환 규칙</strong><br>
-            • <span class="badge">5 제목</span> → <span class="badge">&lt;h1&gt;제5화 『제목』&lt;/h1&gt;</span><br>
-            • <span class="badge">빈 줄</span> → <span class="badge">&lt;br&gt;</span><br>
-            • <span class="badge">일반 텍스트</span> → <span class="badge">&lt;p&gt;...&lt;/p&gt;</span>
-        </div>
+        <div class="info">📌 규칙: <strong>숫자(1~9) + 공백 + 내용</strong> → &lt;h1&gt;제n화 『내용』&lt;/h1&gt; &nbsp;|&nbsp; 빈 줄 → &lt;br&gt; &nbsp;|&nbsp; 그 외 → &lt;p&gt; (따옴표 등 특수문자 그대로, &quot; 없음)</div>
     </div>
-
-    <!-- 결과 패널 (미리보기 + HTML) -->
     <div class="panel">
-        <div class="panel-header">🎨 미리보기 (렌더링 결과)</div>
-        <div id="previewArea" class="preview-box"></div>
-        <div class="panel-header" style="background:#2d2f33;">📄 생성된 HTML 코드</div>
-        <div id="htmlCodeArea" class="html-box"></div>
+        <div class="panel-header">🎨 미리보기 (렌더링)</div>
+        <div id="previewArea" class="preview"></div>
+        <div class="panel-header" style="background:#e2e6ea; color:#1e2a3a;">📄 생성된 HTML 코드 (깔끔, 엔티티 없음)</div>
+        <div id="htmlCodeArea" class="html-code"></div>
     </div>
 </div>
-
 <script>
-    // 핵심 변환 함수
-    function convertToHtml(rawText) {
-        // 줄바꿈 정규화
-        let normalized = rawText.replace(/\r\n/g, '\n').replace(/\r/g, '\n');
-        let lines = normalized.split('\n');
+    // 최소 이스케이프: &, <, > 만 변환 (따옴표는 그대로)
+    function minimalEscape(str) {
+        return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+    }
+
+    function convertToHtml(raw) {
+        let lines = raw.replace(/\r\n/g, '\n').replace(/\r/g, '\n').split('\n');
         let result = [];
-
-        for (let i = 0; i < lines.length; i++) {
-            let line = lines[i];
+        for (let line of lines) {
             let trimmed = line.trim();
-
-            // 빈 줄 처리
             if (trimmed === "") {
                 result.push("<br>");
                 continue;
             }
-
-            // 숫자(1~9) + 공백 + 내용 형태인지 검사 (화 처리)
-            // 예: "5 너의 이름은", "12"는 안 됨 (1~9까지만 화로 처리, 필요시 확장 가능)
-            const headingMatch = line.match(/^([1-9])\s+(.*)/);
-            if (headingMatch) {
-                let chapterNum = headingMatch[1];     // "5"
-                let titleRaw = headingMatch[2];       // "너의 이름은"
-                // 제목 양쪽 공백 제거
-                let title = titleRaw.trim();
-                // 특수문자 이스케이프
-                let escapedTitle = escapeHtml(title);
-                let escapedNum = escapeHtml(chapterNum);
-                result.push(`<h1>제${escapedNum}화 『${escapedTitle}』</h1>`);
-                continue;
+            let match = line.match(/^([1-9])\s+(.*)/);
+            if (match) {
+                let num = match[1];
+                let title = match[2].trim();
+                // 제목 내용도 이스케이프 없이 그대로 (『』 등 포함)
+                result.push(`<h1>제${minimalEscape(num)}화 『${title}』</h1>`);
+            } else {
+                // 일반 줄: 따옴표 등 그대로 p 태그 안에 넣음
+                result.push(`<p>${minimalEscape(line)}</p>`);
             }
-
-            // 그 외 일반 텍스트 줄 -> <p>
-            result.push(`<p>${escapeHtml(line)}</p>`);
         }
-
         return result.join('\n');
     }
 
-    // HTML 이스케이프 (XSS 방지)
-    function escapeHtml(str) {
-        if (!str) return '';
-        return str
-            .replace(/&/g, '&amp;')
-            .replace(/</g, '&lt;')
-            .replace(/>/g, '&gt;')
-            .replace(/"/g, '&quot;')
-            .replace(/'/g, '&#39;');
-    }
-
-    // 예제 데이터 (사용자가 원했던 리제로 스타일 일부 + 규칙 데모)
-    function loadExample() {
-        return `5 너의 이름은
-
-이세계에서 첫 우호적인 상대와의 교류.
-
-그런 훈훈한 대화를 거쳐, 그녀의 도움을 요청하고 나서 약 30분.
-
-"그게 무슨 소리야."
-
-수사는 순조롭게 정체되고 있었다.
-
-추궁하는 소녀의 시선은 싸늘했고, 그 못마땅한 시선을 받는 스바루에게 하나의 새로운 발견을 가져다주고 있었다. 그것은,
-
-"저렇게 차가운 눈으로 쳐다보는데 두근두근거려.. 무슨 바보같은 소리야, 설마, 이 내가 M이었다는 건가?"
-
-"M인지 뭔지 모르겠지만 굉장히 쓸데없는 소리라는 건 알겠어."
-
-소녀는 팔짱을 끼고 어이없다는 표정을 감추지 못한 채 한숨을 내쉰다.
-
-2 새로운 만남
-
-다음 장으로 넘어가기 전, 잠시 휴식.
-
-"너는 누구야?"
-
-"난 나츠키 스바루. 천의무봉의 무일푼."
-
-팩이 빙그레 웃었다.
-
-이런 식으로 숫자(2 새로운 만남)도 <h1>제2화 『새로운 만남』</h1>로 바뀝니다.`;
-    }
-
-    // 화면 업데이트 (변환 + 미리보기 + HTML 코드 표시)
     function updateUI() {
-        const rawText = document.getElementById('inputText').value;
-        const htmlResult = convertToHtml(rawText);
-        // 미리보기 영역에 HTML 삽입
-        const previewDiv = document.getElementById('previewArea');
-        previewDiv.innerHTML = htmlResult;
-        // HTML 코드 영역에 텍스트로 표시
-        const htmlCodeDiv = document.getElementById('htmlCodeArea');
-        htmlCodeDiv.textContent = htmlResult;
+        let raw = document.getElementById('inputText').value;
+        let html = convertToHtml(raw);
+        document.getElementById('previewArea').innerHTML = html;
+        // HTML 코드를 그대로 보여줌 (이스케이프 추가 없이, textContent 사용)
+        document.getElementById('htmlCodeArea').textContent = html;
     }
 
-    // 클립보드 복사 함수
-    async function copyToClipboard(text, successMsg) {
+    async function copy(text, msg) {
         try {
             await navigator.clipboard.writeText(text);
-            alert(successMsg || "복사되었습니다.");
-        } catch (err) {
-            alert("복사 실패: " + err);
+            alert(msg);
+        } catch(e) {
+            alert("복사 실패");
         }
     }
 
-    // 이벤트 연결
-    document.getElementById('convertBtn').addEventListener('click', updateUI);
-    document.getElementById('copyHtmlBtn').addEventListener('click', () => {
-        const htmlCode = document.getElementById('htmlCodeArea').textContent;
-        if (htmlCode) copyToClipboard(htmlCode, "✅ HTML 코드가 클립보드에 복사됨");
-        else alert("변환된 HTML이 없습니다.");
-    });
-    document.getElementById('copyPreviewBtn').addEventListener('click', () => {
-        const previewHtml = document.getElementById('previewArea').innerHTML;
-        if (previewHtml) copyToClipboard(previewHtml, "✅ 미리보기 HTML이 복사됨");
-        else alert("미리보기 내용이 없습니다.");
-    });
-    document.getElementById('clearBtn').addEventListener('click', () => {
-        document.getElementById('inputText').value = '';
-        document.getElementById('previewArea').innerHTML = '';
-        document.getElementById('htmlCodeArea').textContent = '';
-    });
-    document.getElementById('exampleBtn').addEventListener('click', () => {
-        document.getElementById('inputText').value = loadExample();
-        updateUI(); // 자동 변환
-    });
+    document.getElementById('convertBtn').onclick = updateUI;
+    document.getElementById('copyHtmlBtn').onclick = () => copy(document.getElementById('htmlCodeArea').textContent, "HTML 코드가 복사되었습니다 (깔끔한 버전)");
+    document.getElementById('clearBtn').onclick = () => { document.getElementById('inputText').value = ''; updateUI(); };
+    document.getElementById('exampleBtn').onclick = () => {
+        document.getElementById('inputText').value = `3 처음 보는 마법
 
-    // 페이지 로드 시 예제 자동 표시
-    window.addEventListener('DOMContentLoaded', () => {
-        document.getElementById('inputText').value = loadExample();
+시간이 멈춘다는 것은 이런 감각일까.
+
+골목 입구, 조금 전까지의 남자들과 마찬가지로 한 소녀가 서 있다.
+
+"거기까지야. 그 이상의 행패는 용인할 수 없어."
+
+그리고 그건 남자들도 마찬가지였다.
+
+"이렇게 되면 상대가 마법사든 뭐든 알 바 아니야."`;
         updateUI();
-    });
+    };
+    window.onload = () => {
+        document.getElementById('inputText').value = `3 처음 보는 마법
+
+시간이 멈춘다는 것은 이런 감각일까.
+
+"거기까지야."`;
+        updateUI();
+    };
 </script>
 </body>
 </html>
