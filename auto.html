@@ -2,15 +2,15 @@
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
-    <title>소설 HTML 변환기 (깔끔하게, quot 없음)</title>
+    <title>소설 HTML 변환기 (화수 1~150, 특수문자 유지)</title>
     <style>
         body { font-family: 'Segoe UI', sans-serif; background: #f0f2f5; margin: 20px; }
         .container { max-width: 1400px; margin: auto; display: flex; gap: 20px; flex-wrap: wrap; }
         .panel { flex: 1; background: white; border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); display: flex; flex-direction: column; }
         .panel-header { background: #1e2a3a; color: white; padding: 12px 20px; font-weight: bold; border-radius: 16px 16px 0 0; }
         textarea, .preview, .html-code { width: 100%; padding: 16px; font-size: 14px; line-height: 1.6; border: none; resize: vertical; }
-        textarea { background: #fef9e6; font-family: monospace; min-height: 400px; }
-        .preview { background: white; font-family: 'Noto Sans', sans-serif; min-height: 400px; overflow-y: auto; }
+        textarea { background: #fef9e6; font-family: monospace; min-height: 500px; }
+        .preview { background: white; font-family: 'Noto Sans', sans-serif; min-height: 500px; overflow-y: auto; }
         .html-code { background: #f8f9fa; color: #1e1e1e; font-family: 'Courier New', monospace; white-space: pre-wrap; min-height: 200px; border-top: 1px solid #ddd; }
         .button-bar { padding: 12px; background: #e9ecef; display: flex; gap: 10px; border-top: 1px solid #ccc; }
         button { background: #2c6e9e; color: white; border: none; padding: 6px 16px; border-radius: 20px; cursor: pointer; }
@@ -24,18 +24,20 @@
     <div class="panel">
         <div class="panel-header">✏️ 원본 텍스트 입력</div>
         <textarea id="inputText" placeholder='예:
-3 처음 보는 마법
+8 쓴 술맛
 
-시간이 멈춘다는 것은 이런 감각일까.
+골목 안에서의 복수 매치를 이루어...
 
-"거기까지야."'></textarea>
+150 최종화
+
+이런 식으로 쓰면 화수 1~150까지 모두 인식합니다.'></textarea>
         <div class="button-bar">
             <button id="convertBtn">✨ HTML 변환</button>
             <button id="copyHtmlBtn" class="copy-btn">📋 HTML 코드 복사</button>
-            <button id="exampleBtn">📖 예제 불러오기</button>
+            <button id="exampleBtn">📖 예제 불러오기 (8화)</button>
             <button id="clearBtn">🗑️ 지우기</button>
         </div>
-        <div class="info">📌 규칙: <strong>숫자(1~9) + 공백 + 내용</strong> → &lt;h1&gt;제n화 『내용』&lt;/h1&gt; &nbsp;|&nbsp; 빈 줄 → &lt;br&gt; &nbsp;|&nbsp; 그 외 → &lt;p&gt; (따옴표 등 특수문자 그대로, &quot; 없음)</div>
+        <div class="info">📌 규칙: <strong>숫자(1~150) + 공백 + 내용</strong> → &lt;h1&gt;제n화 『내용』&lt;/h1&gt; &nbsp;|&nbsp; 빈 줄 → &lt;br&gt; &nbsp;|&nbsp; 그 외 → &lt;p&gt; (특수문자 『』, 따옴표 등 모두 그대로, &quot; 없음)</div>
     </div>
     <div class="panel">
         <div class="panel-header">🎨 미리보기 (렌더링)</div>
@@ -45,30 +47,39 @@
     </div>
 </div>
 <script>
-    // 최소 이스케이프: &, <, > 만 변환 (따옴표는 그대로)
+    // 최소 이스케이프: &, <, > 만 변환 (따옴표와 특수문자는 그대로)
     function minimalEscape(str) {
         return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
     }
 
+    // 1~150 숫자 패턴: 1-9, 10-99, 100-150
+    // 정규식: (?:[1-9]|[1-9][0-9]|1[0-4][0-9]|150) → 1~150 매칭
     function convertToHtml(raw) {
         let lines = raw.replace(/\r\n/g, '\n').replace(/\r/g, '\n').split('\n');
         let result = [];
+        // 1~150에 해당하는 숫자 패턴
+        const chapterPattern = /^(?:[1-9]|[1-9][0-9]|1[0-4][0-9]|150)\s+(.*)/;
+        
         for (let line of lines) {
-            let trimmed = line.trim();
-            if (trimmed === "") {
+            // 빈 줄 검사 (공백만 있는 줄도 빈 줄로 간주)
+            if (line.trim() === "") {
                 result.push("<br>");
                 continue;
             }
-            let match = line.match(/^([1-9])\s+(.*)/);
+            
+            let trimmedLine = line.trim();
+            let match = trimmedLine.match(chapterPattern);
             if (match) {
-                let num = match[1];
-                let title = match[2].trim();
-                // 제목 내용도 이스케이프 없이 그대로 (『』 등 포함)
-                result.push(`<h1>제${minimalEscape(num)}화 『${title}』</h1>`);
-            } else {
-                // 일반 줄: 따옴표 등 그대로 p 태그 안에 넣음
-                result.push(`<p>${minimalEscape(line)}</p>`);
+                // 숫자 추출 (패턴에서 숫자 부분을 캡처해야 함)
+                let numMatch = trimmedLine.match(/^(\d+)\s+/);
+                let chapterNum = numMatch ? numMatch[1] : "";
+                let title = match[1].trim();
+                result.push(`<h1>제${minimalEscape(chapterNum)}화 『${title}』</h1>`);
+                continue;
             }
+            
+            // 일반 텍스트 줄
+            result.push(`<p>${minimalEscape(line)}</p>`);
         }
         return result.join('\n');
     }
@@ -77,7 +88,6 @@
         let raw = document.getElementById('inputText').value;
         let html = convertToHtml(raw);
         document.getElementById('previewArea').innerHTML = html;
-        // HTML 코드를 그대로 보여줌 (이스케이프 추가 없이, textContent 사용)
         document.getElementById('htmlCodeArea').textContent = html;
     }
 
@@ -91,28 +101,32 @@
     }
 
     document.getElementById('convertBtn').onclick = updateUI;
-    document.getElementById('copyHtmlBtn').onclick = () => copy(document.getElementById('htmlCodeArea').textContent, "HTML 코드가 복사되었습니다 (깔끔한 버전)");
+    document.getElementById('copyHtmlBtn').onclick = () => copy(document.getElementById('htmlCodeArea').textContent, "HTML 코드가 복사되었습니다");
     document.getElementById('clearBtn').onclick = () => { document.getElementById('inputText').value = ''; updateUI(); };
     document.getElementById('exampleBtn').onclick = () => {
-        document.getElementById('inputText').value = `3 처음 보는 마법
+        document.getElementById('inputText').value = `8 쓴 술맛
 
-시간이 멈춘다는 것은 이런 감각일까.
+골목 안에서의 복수 매치를 이루어, 스바루가 빈민가의 최오지인 장물 창고의 위용 앞에 선 것은, 벌써 해가 크게 기울어진 저녁때가 되어서였다.
 
-골목 입구, 조금 전까지의 남자들과 마찬가지로 한 소녀가 서 있다.
+「야, 겨우 찾았다.… 번거롭게 했어, 젠장.」
 
-"거기까지야. 그 이상의 행패는 용인할 수 없어."
+이마의 땀을 소매로 닦으며 겨우 도착한 목적지 앞에서 주저앉는다.
 
-그리고 그건 남자들도 마찬가지였다.
+이래저래 뛰어다녔고, 여기에 오기까지 벌써 두 시간 가까이 지났다.
 
-"이렇게 되면 상대가 마법사든 뭐든 알 바 아니야."`;
+「가는 것뿐이니까 여유라고 생각했지만...」
+
+역시 안내판 글자를 읽지 못하는 게 스바루에게 큰 걸림돌이 된 건 사실이다.
+
+비슷한 거리가 즐비한 왕도에서 토지 감각이 없는 스바루는 지명이나 점포 이름 표기에도 의존할 수 없다.`;
         updateUI();
     };
     window.onload = () => {
-        document.getElementById('inputText').value = `3 처음 보는 마법
+        document.getElementById('inputText').value = `8 쓴 술맛
 
-시간이 멈춘다는 것은 이런 감각일까.
+골목 안에서의 복수 매치를 이루어, 스바루가 빈민가의 최오지인 장물 창고의 위용 앞에 선 것은, 벌써 해가 크게 기울어진 저녁때가 되어서였다.
 
-"거기까지야."`;
+「야, 겨우 찾았다.… 번거롭게 했어, 젠장.」`;
         updateUI();
     };
 </script>
